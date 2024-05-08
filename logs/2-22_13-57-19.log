@@ -1,0 +1,1857 @@
+[13:57:19.580] [INFO   ] thread bguspl.set.Main.main() starting.
+[13:57:19.595] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:57:19.604] [SEVERE ] configuration file was loaded from resources directory.
+[13:57:21.428] [INFO   ] thread dealer starting.
+[13:57:21.431] [INFO   ] thread dealer starting.
+[13:57:21.432] [INFO   ] thread Thread-1 starting.
+[13:57:21.433] [INFO   ] thread Thread-4 starting.
+[13:57:21.432] [INFO   ] thread Thread-3 starting.
+[13:57:21.432] [INFO   ] thread Thread-2 starting.
+[13:57:21.437] [INFO   ] thread computer-2 starting.
+[13:57:21.437] [INFO   ] im player 3 entering return
+[13:57:21.436] [INFO   ] thread computer-3 starting.
+[13:57:21.436] [INFO   ] im player 4 entering return
+[13:57:21.434] [INFO   ] im player 1 entering return
+[13:57:21.441] [INFO   ] im player 2 entering return
+[13:57:21.542] [SEVERE ] placing card 6 in slot 0
+[13:57:21.643] [SEVERE ] placing card 21 in slot 1
+[13:57:21.744] [SEVERE ] placing card 54 in slot 2
+[13:57:21.846] [SEVERE ] placing card 0 in slot 3
+[13:57:21.947] [SEVERE ] placing card 63 in slot 4
+[13:57:22.048] [SEVERE ] placing card 37 in slot 5
+[13:57:22.149] [SEVERE ] placing card 8 in slot 6
+[13:57:22.250] [SEVERE ] placing card 9 in slot 7
+[13:57:22.352] [SEVERE ] placing card 55 in slot 8
+[13:57:22.453] [SEVERE ] placing card 61 in slot 9
+[13:57:22.554] [SEVERE ] placing card 5 in slot 10
+[13:57:22.655] [SEVERE ] placing card 10 in slot 11
+[13:57:22.664] [INFO   ] im player 2 exit return
+[13:57:22.664] [INFO   ] im player 4 exit return
+[13:57:22.666] [INFO   ] player 4 waiting for queue 1
+[13:57:22.664] [INFO   ] im player 1 exit return
+[13:57:22.664] [SEVERE ] updating countdown to 19999
+[13:57:22.677] [INFO   ] player 1 waiting for queue 0
+[13:57:22.669] [INFO   ] player 4 out queue 0
+[13:57:22.666] [INFO   ] im player 3 exit return
+[13:57:22.687] [INFO   ] player 3 waiting for queue 1
+[13:57:22.665] [INFO   ] player 2 waiting for queue 0
+[13:57:22.689] [INFO   ] player 3 out queue 0
+[13:57:22.686] [SEVERE ] player 4 placing token on slot 0
+[13:57:22.679] [INFO   ] dealer have table
+[13:57:22.693] [INFO   ] im player 4 entering return
+[13:57:22.699] [INFO   ] im player 4 exit return
+[13:57:22.692] [SEVERE ] player 3 placing token on slot 1
+[13:57:22.700] [INFO   ] player 4 waiting for queue 0
+[13:57:22.701] [INFO   ] im player 3 entering return
+[13:57:22.711] [INFO   ] im player 3 exit return
+[13:57:22.712] [INFO   ] player 3 waiting for queue 0
+[13:57:23.657] [INFO   ] player 4 out queue 0
+[13:57:23.657] [INFO   ] player 3 out queue 0
+[13:57:23.658] [SEVERE ] player 3 placing token on slot 0
+[13:57:23.658] [SEVERE ] player 4 placing token on slot 3
+[13:57:23.659] [INFO   ] im player 3 entering return
+[13:57:23.659] [INFO   ] im player 3 exit return
+[13:57:23.659] [INFO   ] player 3 waiting for queue 0
+[13:57:23.659] [INFO   ] im player 4 entering return
+[13:57:23.660] [INFO   ] im player 4 exit return
+[13:57:23.661] [INFO   ] player 4 waiting for queue 0
+[13:57:23.696] [SEVERE ] updating countdown to 18982
+[13:57:23.697] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:23.698] [INFO   ] dealer have table
+[13:57:23.698] [INFO   ] dealer realese table
+[13:57:23.698] [INFO   ] dealer have table
+[13:57:24.657] [INFO   ] player 4 out queue 0
+[13:57:24.658] [SEVERE ] player 4 placing token on slot 4
+[13:57:24.657] [INFO   ] player 3 out queue 0
+[13:57:24.659] [SEVERE ] player 3 placing token on slot 11
+[13:57:24.660] [INFO   ] player 3 in claims 2
+[13:57:24.660] [INFO   ] player 3 has table
+[13:57:24.659] [INFO   ] player 4 in claims 1
+[13:57:24.661] [INFO   ] player 4 has table
+[13:57:24.660] [SEVERE ] updating countdown to 18018
+[13:57:24.661] [INFO   ] player 3 wait table
+[13:57:24.662] [INFO   ] im dealer i'm checking for sets now and queue size is 2
+[13:57:24.662] [INFO   ] dealer have table
+[13:57:24.662] [INFO   ] took 4out of claims for a check
+[13:57:24.663] [INFO   ] dealer realese table
+[13:57:24.663] [INFO   ] player 4 wait table
+[13:57:24.664] [INFO   ] player 4 realese table
+[13:57:24.664] [INFO   ] dealer have table
+[13:57:24.664] [SEVERE ] setting player 4 freeze to 3000
+[13:57:24.665] [INFO   ] player 3 wait table
+[13:57:24.665] [SEVERE ] updating countdown to 18013
+[13:57:24.666] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[13:57:24.666] [INFO   ] dealer have table
+[13:57:24.666] [INFO   ] took 3out of claims for a check
+[13:57:24.667] [INFO   ] dealer realese table
+[13:57:24.667] [INFO   ] player 3 wait table
+[13:57:24.668] [INFO   ] player 3 realese table
+[13:57:24.668] [SEVERE ] setting player 3 freeze to 3000
+[13:57:24.668] [INFO   ] dealer have table
+[13:57:25.665] [SEVERE ] setting player 4 freeze to 2000
+[13:57:25.669] [SEVERE ] setting player 3 freeze to 2000
+[13:57:25.669] [SEVERE ] updating countdown to 17009
+[13:57:25.670] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:25.671] [INFO   ] dealer have table
+[13:57:25.671] [INFO   ] dealer realese table
+[13:57:25.672] [INFO   ] dealer have table
+[13:57:26.666] [SEVERE ] setting player 4 freeze to 1000
+[13:57:26.670] [SEVERE ] setting player 3 freeze to 1000
+[13:57:26.672] [SEVERE ] updating countdown to 16006
+[13:57:26.673] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:26.673] [INFO   ] dealer have table
+[13:57:26.673] [INFO   ] dealer realese table
+[13:57:26.674] [INFO   ] dealer have table
+[13:57:27.667] [SEVERE ] setting player 4 freeze to 0
+[13:57:27.669] [INFO   ] im player 4 im exiting my loop and mu check is false
+[13:57:27.669] [INFO   ] im player 4 entering return
+[13:57:27.670] [INFO   ] im player 4 exit return
+[13:57:27.671] [INFO   ] player 4 waiting for queue 1
+[13:57:27.671] [SEVERE ] setting player 3 freeze to 0
+[13:57:27.671] [INFO   ] player 4 out queue 0
+[13:57:27.672] [INFO   ] im player 3 im exiting my loop and mu check is false
+[13:57:27.672] [SEVERE ] removing player 4 token from slot 3
+[13:57:27.673] [INFO   ] im player 3 entering return
+[13:57:27.674] [INFO   ] im player 3 exit return
+[13:57:27.674] [INFO   ] im player 4 entering return
+[13:57:27.675] [INFO   ] player 3 waiting for queue 1
+[13:57:27.674] [SEVERE ] updating countdown to 15004
+[13:57:27.676] [INFO   ] player 3 out queue 0
+[13:57:27.675] [INFO   ] im player 4 exit return
+[13:57:27.677] [INFO   ] im player 3 entering return
+[13:57:27.676] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:27.677] [INFO   ] im player 3 exit return
+[13:57:27.677] [INFO   ] player 4 waiting for queue 0
+[13:57:27.679] [INFO   ] player 3 waiting for queue 0
+[13:57:27.678] [INFO   ] dealer have table
+[13:57:27.681] [INFO   ] dealer realese table
+[13:57:27.681] [INFO   ] dealer have table
+[13:57:28.669] [INFO   ] player 4 out queue 0
+[13:57:28.670] [SEVERE ] removing player 4 token from slot 4
+[13:57:28.670] [INFO   ] im player 4 entering return
+[13:57:28.670] [INFO   ] im player 4 exit return
+[13:57:28.671] [INFO   ] player 4 waiting for queue 0
+[13:57:28.672] [INFO   ] player 3 out queue 0
+[13:57:28.673] [INFO   ] im player 3 entering return
+[13:57:28.673] [INFO   ] im player 3 exit return
+[13:57:28.673] [INFO   ] player 3 waiting for queue 0
+[13:57:28.682] [SEVERE ] updating countdown to 13996
+[13:57:28.683] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:28.683] [INFO   ] dealer have table
+[13:57:28.683] [INFO   ] dealer realese table
+[13:57:28.684] [INFO   ] dealer have table
+[13:57:29.669] [INFO   ] player 4 out queue 0
+[13:57:29.670] [SEVERE ] player 4 placing token on slot 5
+[13:57:29.671] [INFO   ] im player 4 entering return
+[13:57:29.671] [INFO   ] im player 4 exit return
+[13:57:29.672] [INFO   ] player 4 waiting for queue 0
+[13:57:29.673] [INFO   ] player 3 out queue 0
+[13:57:29.673] [INFO   ] im player 3 entering return
+[13:57:29.673] [INFO   ] im player 3 exit return
+[13:57:29.674] [INFO   ] player 3 waiting for queue 0
+[13:57:29.685] [SEVERE ] updating countdown to 12993
+[13:57:29.686] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:29.686] [INFO   ] dealer have table
+[13:57:29.687] [INFO   ] dealer realese table
+[13:57:29.687] [INFO   ] dealer have table
+[13:57:30.669] [INFO   ] player 4 out queue 0
+[13:57:30.670] [SEVERE ] player 4 placing token on slot 2
+[13:57:30.671] [INFO   ] player 4 in claims 1
+[13:57:30.671] [INFO   ] player 4 has table
+[13:57:30.672] [SEVERE ] updating countdown to 12006
+[13:57:30.672] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[13:57:30.673] [INFO   ] dealer have table
+[13:57:30.673] [INFO   ] took 4out of claims for a check
+[13:57:30.673] [INFO   ] player 3 out queue 0
+[13:57:30.674] [INFO   ] player 4 wait table
+[13:57:30.674] [INFO   ] player 4 realese table
+[13:57:30.674] [INFO   ] dealer realese table
+[13:57:30.675] [SEVERE ] setting player 4 freeze to 3000
+[13:57:30.674] [INFO   ] im player 3 entering return
+[13:57:30.677] [INFO   ] im player 3 exit return
+[13:57:30.676] [INFO   ] dealer have table
+[13:57:30.677] [INFO   ] player 3 waiting for queue 0
+[13:57:31.673] [INFO   ] player 3 out queue 0
+[13:57:31.674] [INFO   ] im player 3 entering return
+[13:57:31.674] [INFO   ] im player 3 exit return
+[13:57:31.675] [INFO   ] player 3 waiting for queue 0
+[13:57:31.677] [SEVERE ] setting player 4 freeze to 2000
+[13:57:31.678] [SEVERE ] updating countdown to 11001
+[13:57:31.678] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:31.679] [INFO   ] dealer have table
+[13:57:31.680] [INFO   ] dealer realese table
+[13:57:31.680] [INFO   ] dealer have table
+[13:57:32.673] [INFO   ] player 3 out queue 0
+[13:57:32.674] [SEVERE ] removing player 3 token from slot 11
+[13:57:32.674] [INFO   ] im player 3 entering return
+[13:57:32.675] [INFO   ] im player 3 exit return
+[13:57:32.675] [INFO   ] player 3 waiting for queue 0
+[13:57:32.677] [SEVERE ] setting player 4 freeze to 1000
+[13:57:32.681] [SEVERE ] updating countdown to 9997
+[13:57:32.681] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:32.682] [INFO   ] dealer have table
+[13:57:32.682] [INFO   ] dealer realese table
+[13:57:32.682] [INFO   ] dealer have table
+[13:57:33.674] [INFO   ] player 3 out queue 0
+[13:57:33.674] [SEVERE ] player 3 placing token on slot 2
+[13:57:33.675] [INFO   ] player 3 in claims 1
+[13:57:33.675] [INFO   ] player 3 has table
+[13:57:33.676] [SEVERE ] updating countdown to 9002
+[13:57:33.676] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[13:57:33.677] [INFO   ] dealer have table
+[13:57:33.677] [INFO   ] took 3out of claims for a check
+[13:57:33.677] [INFO   ] dealer realese table
+[13:57:33.677] [INFO   ] player 3 wait table
+[13:57:33.678] [SEVERE ] setting player 4 freeze to 0
+[13:57:33.679] [INFO   ] player 3 realese table
+[13:57:33.680] [INFO   ] im player 4 im exiting my loop and mu check is false
+[13:57:33.681] [INFO   ] im player 4 entering return
+[13:57:33.682] [INFO   ] im player 4 exit return
+[13:57:33.682] [INFO   ] player 4 waiting for queue 1
+[13:57:33.683] [INFO   ] player 4 out queue 0
+[13:57:33.683] [INFO   ] im player 4 entering return
+[13:57:33.684] [INFO   ] im player 4 exit return
+[13:57:33.685] [INFO   ] player 4 waiting for queue 0
+[13:57:33.680] [INFO   ] dealer have table
+[13:57:33.680] [SEVERE ] setting player 3 freeze to 3000
+[13:57:34.680] [INFO   ] player 4 out queue 0
+[13:57:34.681] [INFO   ] im player 4 entering return
+[13:57:34.682] [INFO   ] im player 4 exit return
+[13:57:34.682] [INFO   ] player 4 waiting for queue 0
+[13:57:34.686] [SEVERE ] updating countdown to 7992
+[13:57:34.686] [SEVERE ] setting player 3 freeze to 2000
+[13:57:34.686] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:34.687] [INFO   ] dealer have table
+[13:57:34.687] [INFO   ] dealer realese table
+[13:57:34.688] [INFO   ] dealer have table
+[13:57:35.681] [INFO   ] player 4 out queue 0
+[13:57:35.681] [INFO   ] im player 4 entering return
+[13:57:35.682] [INFO   ] im player 4 exit return
+[13:57:35.682] [INFO   ] player 4 waiting for queue 0
+[13:57:35.687] [SEVERE ] setting player 3 freeze to 1000
+[13:57:35.688] [SEVERE ] updating countdown to 6990
+[13:57:35.689] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:35.689] [INFO   ] dealer have table
+[13:57:35.689] [INFO   ] dealer realese table
+[13:57:35.690] [INFO   ] dealer have table
+[13:57:36.681] [INFO   ] player 4 out queue 0
+[13:57:36.681] [INFO   ] im player 4 entering return
+[13:57:36.682] [INFO   ] im player 4 exit return
+[13:57:36.682] [INFO   ] player 4 waiting for queue 0
+[13:57:36.688] [SEVERE ] setting player 3 freeze to 0
+[13:57:36.689] [INFO   ] im player 3 im exiting my loop and mu check is false
+[13:57:36.689] [INFO   ] im player 3 entering return
+[13:57:36.690] [INFO   ] im player 3 exit return
+[13:57:36.690] [INFO   ] player 3 waiting for queue 1
+[13:57:36.690] [SEVERE ] updating countdown to 5988
+[13:57:36.691] [INFO   ] player 3 out queue 0
+[13:57:36.692] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:36.692] [INFO   ] dealer have table
+[13:57:36.692] [INFO   ] im player 3 entering return
+[13:57:36.693] [INFO   ] dealer realese table
+[13:57:36.693] [INFO   ] im player 3 exit return
+[13:57:36.694] [INFO   ] player 3 waiting for queue 0
+[13:57:36.694] [INFO   ] dealer have table
+[13:57:37.681] [INFO   ] player 4 out queue 0
+[13:57:37.682] [INFO   ] im player 4 entering return
+[13:57:37.682] [INFO   ] im player 4 exit return
+[13:57:37.683] [INFO   ] player 4 waiting for queue 0
+[13:57:37.689] [INFO   ] player 3 out queue 0
+[13:57:37.690] [INFO   ] im player 3 entering return
+[13:57:37.690] [INFO   ] im player 3 exit return
+[13:57:37.691] [INFO   ] player 3 waiting for queue 0
+[13:57:37.696] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.697] [INFO   ] dealer have table
+[13:57:37.697] [INFO   ] dealer realese table
+[13:57:37.698] [INFO   ] dealer have table
+[13:57:37.708] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.709] [INFO   ] dealer have table
+[13:57:37.710] [INFO   ] dealer realese table
+[13:57:37.710] [INFO   ] dealer have table
+[13:57:37.721] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.722] [INFO   ] dealer have table
+[13:57:37.722] [INFO   ] dealer realese table
+[13:57:37.723] [INFO   ] dealer have table
+[13:57:37.734] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.734] [INFO   ] dealer have table
+[13:57:37.734] [INFO   ] dealer realese table
+[13:57:37.735] [INFO   ] dealer have table
+[13:57:37.746] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.746] [INFO   ] dealer have table
+[13:57:37.747] [INFO   ] dealer realese table
+[13:57:37.747] [INFO   ] dealer have table
+[13:57:37.758] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.759] [INFO   ] dealer have table
+[13:57:37.759] [INFO   ] dealer realese table
+[13:57:37.760] [INFO   ] dealer have table
+[13:57:37.771] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.772] [INFO   ] dealer have table
+[13:57:37.772] [INFO   ] dealer realese table
+[13:57:37.772] [INFO   ] dealer have table
+[13:57:37.783] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.784] [INFO   ] dealer have table
+[13:57:37.784] [INFO   ] dealer realese table
+[13:57:37.784] [INFO   ] dealer have table
+[13:57:37.795] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.796] [INFO   ] dealer have table
+[13:57:37.796] [INFO   ] dealer realese table
+[13:57:37.797] [INFO   ] dealer have table
+[13:57:37.808] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.808] [INFO   ] dealer have table
+[13:57:37.809] [INFO   ] dealer realese table
+[13:57:37.809] [INFO   ] dealer have table
+[13:57:37.820] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.821] [INFO   ] dealer have table
+[13:57:37.821] [INFO   ] dealer realese table
+[13:57:37.822] [INFO   ] dealer have table
+[13:57:37.833] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.833] [INFO   ] dealer have table
+[13:57:37.834] [INFO   ] dealer realese table
+[13:57:37.834] [INFO   ] dealer have table
+[13:57:37.846] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.846] [INFO   ] dealer have table
+[13:57:37.847] [INFO   ] dealer realese table
+[13:57:37.847] [INFO   ] dealer have table
+[13:57:37.858] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.859] [INFO   ] dealer have table
+[13:57:37.860] [INFO   ] dealer realese table
+[13:57:37.860] [INFO   ] dealer have table
+[13:57:37.871] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.872] [INFO   ] dealer have table
+[13:57:37.872] [INFO   ] dealer realese table
+[13:57:37.873] [INFO   ] dealer have table
+[13:57:37.884] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.884] [INFO   ] dealer have table
+[13:57:37.885] [INFO   ] dealer realese table
+[13:57:37.886] [INFO   ] dealer have table
+[13:57:37.897] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.897] [INFO   ] dealer have table
+[13:57:37.898] [INFO   ] dealer realese table
+[13:57:37.898] [INFO   ] dealer have table
+[13:57:37.909] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.910] [INFO   ] dealer have table
+[13:57:37.910] [INFO   ] dealer realese table
+[13:57:37.911] [INFO   ] dealer have table
+[13:57:37.922] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.923] [INFO   ] dealer have table
+[13:57:37.923] [INFO   ] dealer realese table
+[13:57:37.923] [INFO   ] dealer have table
+[13:57:37.934] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.935] [INFO   ] dealer have table
+[13:57:37.935] [INFO   ] dealer realese table
+[13:57:37.935] [INFO   ] dealer have table
+[13:57:37.946] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.947] [INFO   ] dealer have table
+[13:57:37.948] [INFO   ] dealer realese table
+[13:57:37.948] [INFO   ] dealer have table
+[13:57:37.959] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.960] [INFO   ] dealer have table
+[13:57:37.960] [INFO   ] dealer realese table
+[13:57:37.961] [INFO   ] dealer have table
+[13:57:37.972] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.972] [INFO   ] dealer have table
+[13:57:37.972] [INFO   ] dealer realese table
+[13:57:37.973] [INFO   ] dealer have table
+[13:57:37.984] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.984] [INFO   ] dealer have table
+[13:57:37.984] [INFO   ] dealer realese table
+[13:57:37.985] [INFO   ] dealer have table
+[13:57:37.995] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:37.996] [INFO   ] dealer have table
+[13:57:37.996] [INFO   ] dealer realese table
+[13:57:37.997] [INFO   ] dealer have table
+[13:57:38.007] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.008] [INFO   ] dealer have table
+[13:57:38.008] [INFO   ] dealer realese table
+[13:57:38.009] [INFO   ] dealer have table
+[13:57:38.019] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.020] [INFO   ] dealer have table
+[13:57:38.020] [INFO   ] dealer realese table
+[13:57:38.021] [INFO   ] dealer have table
+[13:57:38.031] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.032] [INFO   ] dealer have table
+[13:57:38.032] [INFO   ] dealer realese table
+[13:57:38.033] [INFO   ] dealer have table
+[13:57:38.044] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.044] [INFO   ] dealer have table
+[13:57:38.044] [INFO   ] dealer realese table
+[13:57:38.045] [INFO   ] dealer have table
+[13:57:38.056] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.056] [INFO   ] dealer have table
+[13:57:38.057] [INFO   ] dealer realese table
+[13:57:38.057] [INFO   ] dealer have table
+[13:57:38.068] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.068] [INFO   ] dealer have table
+[13:57:38.069] [INFO   ] dealer realese table
+[13:57:38.069] [INFO   ] dealer have table
+[13:57:38.080] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.080] [INFO   ] dealer have table
+[13:57:38.080] [INFO   ] dealer realese table
+[13:57:38.081] [INFO   ] dealer have table
+[13:57:38.092] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.092] [INFO   ] dealer have table
+[13:57:38.093] [INFO   ] dealer realese table
+[13:57:38.093] [INFO   ] dealer have table
+[13:57:38.104] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.105] [INFO   ] dealer have table
+[13:57:38.105] [INFO   ] dealer realese table
+[13:57:38.106] [INFO   ] dealer have table
+[13:57:38.117] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.117] [INFO   ] dealer have table
+[13:57:38.118] [INFO   ] dealer realese table
+[13:57:38.118] [INFO   ] dealer have table
+[13:57:38.129] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.130] [INFO   ] dealer have table
+[13:57:38.131] [INFO   ] dealer realese table
+[13:57:38.131] [INFO   ] dealer have table
+[13:57:38.142] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.143] [INFO   ] dealer have table
+[13:57:38.143] [INFO   ] dealer realese table
+[13:57:38.144] [INFO   ] dealer have table
+[13:57:38.155] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.155] [INFO   ] dealer have table
+[13:57:38.156] [INFO   ] dealer realese table
+[13:57:38.156] [INFO   ] dealer have table
+[13:57:38.167] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.167] [INFO   ] dealer have table
+[13:57:38.168] [INFO   ] dealer realese table
+[13:57:38.168] [INFO   ] dealer have table
+[13:57:38.179] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.180] [INFO   ] dealer have table
+[13:57:38.180] [INFO   ] dealer realese table
+[13:57:38.181] [INFO   ] dealer have table
+[13:57:38.192] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.193] [INFO   ] dealer have table
+[13:57:38.193] [INFO   ] dealer realese table
+[13:57:38.194] [INFO   ] dealer have table
+[13:57:38.205] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.205] [INFO   ] dealer have table
+[13:57:38.206] [INFO   ] dealer realese table
+[13:57:38.206] [INFO   ] dealer have table
+[13:57:38.217] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.222] [INFO   ] dealer have table
+[13:57:38.224] [INFO   ] dealer realese table
+[13:57:38.224] [INFO   ] dealer have table
+[13:57:38.235] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.236] [INFO   ] dealer have table
+[13:57:38.236] [INFO   ] dealer realese table
+[13:57:38.237] [INFO   ] dealer have table
+[13:57:38.247] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.248] [INFO   ] dealer have table
+[13:57:38.249] [INFO   ] dealer realese table
+[13:57:38.249] [INFO   ] dealer have table
+[13:57:38.260] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.260] [INFO   ] dealer have table
+[13:57:38.261] [INFO   ] dealer realese table
+[13:57:38.261] [INFO   ] dealer have table
+[13:57:38.272] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.273] [INFO   ] dealer have table
+[13:57:38.273] [INFO   ] dealer realese table
+[13:57:38.274] [INFO   ] dealer have table
+[13:57:38.285] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.285] [INFO   ] dealer have table
+[13:57:38.286] [INFO   ] dealer realese table
+[13:57:38.286] [INFO   ] dealer have table
+[13:57:38.297] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.298] [INFO   ] dealer have table
+[13:57:38.298] [INFO   ] dealer realese table
+[13:57:38.299] [INFO   ] dealer have table
+[13:57:38.310] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.310] [INFO   ] dealer have table
+[13:57:38.311] [INFO   ] dealer realese table
+[13:57:38.311] [INFO   ] dealer have table
+[13:57:38.322] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.323] [INFO   ] dealer have table
+[13:57:38.323] [INFO   ] dealer realese table
+[13:57:38.324] [INFO   ] dealer have table
+[13:57:38.335] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.336] [INFO   ] dealer have table
+[13:57:38.336] [INFO   ] dealer realese table
+[13:57:38.337] [INFO   ] dealer have table
+[13:57:38.348] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.349] [INFO   ] dealer have table
+[13:57:38.349] [INFO   ] dealer realese table
+[13:57:38.350] [INFO   ] dealer have table
+[13:57:38.361] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.361] [INFO   ] dealer have table
+[13:57:38.362] [INFO   ] dealer realese table
+[13:57:38.362] [INFO   ] dealer have table
+[13:57:38.373] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.374] [INFO   ] dealer have table
+[13:57:38.375] [INFO   ] dealer realese table
+[13:57:38.375] [INFO   ] dealer have table
+[13:57:38.386] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.387] [INFO   ] dealer have table
+[13:57:38.387] [INFO   ] dealer realese table
+[13:57:38.388] [INFO   ] dealer have table
+[13:57:38.399] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.400] [INFO   ] dealer have table
+[13:57:38.400] [INFO   ] dealer realese table
+[13:57:38.401] [INFO   ] dealer have table
+[13:57:38.412] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.412] [INFO   ] dealer have table
+[13:57:38.413] [INFO   ] dealer realese table
+[13:57:38.413] [INFO   ] dealer have table
+[13:57:38.424] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.425] [INFO   ] dealer have table
+[13:57:38.425] [INFO   ] dealer realese table
+[13:57:38.426] [INFO   ] dealer have table
+[13:57:38.437] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.437] [INFO   ] dealer have table
+[13:57:38.438] [INFO   ] dealer realese table
+[13:57:38.438] [INFO   ] dealer have table
+[13:57:38.449] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.449] [INFO   ] dealer have table
+[13:57:38.450] [INFO   ] dealer realese table
+[13:57:38.451] [INFO   ] dealer have table
+[13:57:38.462] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.462] [INFO   ] dealer have table
+[13:57:38.463] [INFO   ] dealer realese table
+[13:57:38.463] [INFO   ] dealer have table
+[13:57:38.474] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.475] [INFO   ] dealer have table
+[13:57:38.475] [INFO   ] dealer realese table
+[13:57:38.476] [INFO   ] dealer have table
+[13:57:38.487] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.487] [INFO   ] dealer have table
+[13:57:38.488] [INFO   ] dealer realese table
+[13:57:38.489] [INFO   ] dealer have table
+[13:57:38.500] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.500] [INFO   ] dealer have table
+[13:57:38.501] [INFO   ] dealer realese table
+[13:57:38.502] [INFO   ] dealer have table
+[13:57:38.513] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.513] [INFO   ] dealer have table
+[13:57:38.514] [INFO   ] dealer realese table
+[13:57:38.514] [INFO   ] dealer have table
+[13:57:38.525] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.526] [INFO   ] dealer have table
+[13:57:38.526] [INFO   ] dealer realese table
+[13:57:38.527] [INFO   ] dealer have table
+[13:57:38.538] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.538] [INFO   ] dealer have table
+[13:57:38.539] [INFO   ] dealer realese table
+[13:57:38.539] [INFO   ] dealer have table
+[13:57:38.550] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.551] [INFO   ] dealer have table
+[13:57:38.551] [INFO   ] dealer realese table
+[13:57:38.552] [INFO   ] dealer have table
+[13:57:38.563] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.563] [INFO   ] dealer have table
+[13:57:38.563] [INFO   ] dealer realese table
+[13:57:38.564] [INFO   ] dealer have table
+[13:57:38.575] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.575] [INFO   ] dealer have table
+[13:57:38.576] [INFO   ] dealer realese table
+[13:57:38.576] [INFO   ] dealer have table
+[13:57:38.587] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.587] [INFO   ] dealer have table
+[13:57:38.587] [INFO   ] dealer realese table
+[13:57:38.588] [INFO   ] dealer have table
+[13:57:38.599] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.599] [INFO   ] dealer have table
+[13:57:38.600] [INFO   ] dealer realese table
+[13:57:38.601] [INFO   ] dealer have table
+[13:57:38.612] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.612] [INFO   ] dealer have table
+[13:57:38.612] [INFO   ] dealer realese table
+[13:57:38.613] [INFO   ] dealer have table
+[13:57:38.624] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.624] [INFO   ] dealer have table
+[13:57:38.625] [INFO   ] dealer realese table
+[13:57:38.625] [INFO   ] dealer have table
+[13:57:38.636] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.637] [INFO   ] dealer have table
+[13:57:38.637] [INFO   ] dealer realese table
+[13:57:38.638] [INFO   ] dealer have table
+[13:57:38.649] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.649] [INFO   ] dealer have table
+[13:57:38.650] [INFO   ] dealer realese table
+[13:57:38.650] [INFO   ] dealer have table
+[13:57:38.661] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.662] [INFO   ] dealer have table
+[13:57:38.662] [INFO   ] dealer realese table
+[13:57:38.662] [INFO   ] dealer have table
+[13:57:38.673] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.674] [INFO   ] dealer have table
+[13:57:38.674] [INFO   ] dealer realese table
+[13:57:38.675] [INFO   ] dealer have table
+[13:57:38.681] [INFO   ] player 4 out queue 0
+[13:57:38.682] [SEVERE ] removing player 4 token from slot 0
+[13:57:38.683] [INFO   ] im player 4 entering return
+[13:57:38.683] [INFO   ] im player 4 exit return
+[13:57:38.684] [INFO   ] player 4 waiting for queue 0
+[13:57:38.686] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.686] [INFO   ] dealer have table
+[13:57:38.687] [INFO   ] dealer realese table
+[13:57:38.687] [INFO   ] dealer have table
+[13:57:38.689] [INFO   ] player 3 out queue 0
+[13:57:38.690] [SEVERE ] removing player 3 token from slot 0
+[13:57:38.690] [INFO   ] im player 3 entering return
+[13:57:38.691] [INFO   ] im player 3 exit return
+[13:57:38.691] [INFO   ] player 3 waiting for queue 0
+[13:57:38.698] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.698] [INFO   ] dealer have table
+[13:57:38.698] [INFO   ] dealer realese table
+[13:57:38.698] [INFO   ] dealer have table
+[13:57:38.709] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.709] [INFO   ] dealer have table
+[13:57:38.710] [INFO   ] dealer realese table
+[13:57:38.710] [INFO   ] dealer have table
+[13:57:38.721] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.721] [INFO   ] dealer have table
+[13:57:38.722] [INFO   ] dealer realese table
+[13:57:38.722] [INFO   ] dealer have table
+[13:57:38.733] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.734] [INFO   ] dealer have table
+[13:57:38.735] [INFO   ] dealer realese table
+[13:57:38.735] [INFO   ] dealer have table
+[13:57:38.746] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.746] [INFO   ] dealer have table
+[13:57:38.747] [INFO   ] dealer realese table
+[13:57:38.747] [INFO   ] dealer have table
+[13:57:38.758] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.759] [INFO   ] dealer have table
+[13:57:38.759] [INFO   ] dealer realese table
+[13:57:38.760] [INFO   ] dealer have table
+[13:57:38.771] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.772] [INFO   ] dealer have table
+[13:57:38.772] [INFO   ] dealer realese table
+[13:57:38.773] [INFO   ] dealer have table
+[13:57:38.783] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.784] [INFO   ] dealer have table
+[13:57:38.784] [INFO   ] dealer realese table
+[13:57:38.785] [INFO   ] dealer have table
+[13:57:38.796] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.796] [INFO   ] dealer have table
+[13:57:38.797] [INFO   ] dealer realese table
+[13:57:38.797] [INFO   ] dealer have table
+[13:57:38.808] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.809] [INFO   ] dealer have table
+[13:57:38.809] [INFO   ] dealer realese table
+[13:57:38.810] [INFO   ] dealer have table
+[13:57:38.821] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.821] [INFO   ] dealer have table
+[13:57:38.822] [INFO   ] dealer realese table
+[13:57:38.822] [INFO   ] dealer have table
+[13:57:38.833] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.834] [INFO   ] dealer have table
+[13:57:38.834] [INFO   ] dealer realese table
+[13:57:38.835] [INFO   ] dealer have table
+[13:57:38.846] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.846] [INFO   ] dealer have table
+[13:57:38.847] [INFO   ] dealer realese table
+[13:57:38.847] [INFO   ] dealer have table
+[13:57:38.858] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.859] [INFO   ] dealer have table
+[13:57:38.859] [INFO   ] dealer realese table
+[13:57:38.859] [INFO   ] dealer have table
+[13:57:38.871] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.871] [INFO   ] dealer have table
+[13:57:38.871] [INFO   ] dealer realese table
+[13:57:38.872] [INFO   ] dealer have table
+[13:57:38.883] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.884] [INFO   ] dealer have table
+[13:57:38.884] [INFO   ] dealer realese table
+[13:57:38.884] [INFO   ] dealer have table
+[13:57:38.896] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.896] [INFO   ] dealer have table
+[13:57:38.897] [INFO   ] dealer realese table
+[13:57:38.897] [INFO   ] dealer have table
+[13:57:38.908] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.909] [INFO   ] dealer have table
+[13:57:38.909] [INFO   ] dealer realese table
+[13:57:38.909] [INFO   ] dealer have table
+[13:57:38.920] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.921] [INFO   ] dealer have table
+[13:57:38.921] [INFO   ] dealer realese table
+[13:57:38.922] [INFO   ] dealer have table
+[13:57:38.933] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.933] [INFO   ] dealer have table
+[13:57:38.934] [INFO   ] dealer realese table
+[13:57:38.935] [INFO   ] dealer have table
+[13:57:38.945] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.946] [INFO   ] dealer have table
+[13:57:38.946] [INFO   ] dealer realese table
+[13:57:38.947] [INFO   ] dealer have table
+[13:57:38.958] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.958] [INFO   ] dealer have table
+[13:57:38.959] [INFO   ] dealer realese table
+[13:57:38.959] [INFO   ] dealer have table
+[13:57:38.970] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.971] [INFO   ] dealer have table
+[13:57:38.971] [INFO   ] dealer realese table
+[13:57:38.972] [INFO   ] dealer have table
+[13:57:38.983] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.983] [INFO   ] dealer have table
+[13:57:38.984] [INFO   ] dealer realese table
+[13:57:38.984] [INFO   ] dealer have table
+[13:57:38.995] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:38.996] [INFO   ] dealer have table
+[13:57:38.996] [INFO   ] dealer realese table
+[13:57:38.997] [INFO   ] dealer have table
+[13:57:39.008] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.008] [INFO   ] dealer have table
+[13:57:39.009] [INFO   ] dealer realese table
+[13:57:39.009] [INFO   ] dealer have table
+[13:57:39.020] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.020] [INFO   ] dealer have table
+[13:57:39.021] [INFO   ] dealer realese table
+[13:57:39.021] [INFO   ] dealer have table
+[13:57:39.032] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.033] [INFO   ] dealer have table
+[13:57:39.033] [INFO   ] dealer realese table
+[13:57:39.033] [INFO   ] dealer have table
+[13:57:39.044] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.045] [INFO   ] dealer have table
+[13:57:39.045] [INFO   ] dealer realese table
+[13:57:39.045] [INFO   ] dealer have table
+[13:57:39.056] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.057] [INFO   ] dealer have table
+[13:57:39.057] [INFO   ] dealer realese table
+[13:57:39.058] [INFO   ] dealer have table
+[13:57:39.069] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.069] [INFO   ] dealer have table
+[13:57:39.069] [INFO   ] dealer realese table
+[13:57:39.070] [INFO   ] dealer have table
+[13:57:39.081] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.081] [INFO   ] dealer have table
+[13:57:39.082] [INFO   ] dealer realese table
+[13:57:39.082] [INFO   ] dealer have table
+[13:57:39.093] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.094] [INFO   ] dealer have table
+[13:57:39.094] [INFO   ] dealer realese table
+[13:57:39.094] [INFO   ] dealer have table
+[13:57:39.105] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.105] [INFO   ] dealer have table
+[13:57:39.105] [INFO   ] dealer realese table
+[13:57:39.106] [INFO   ] dealer have table
+[13:57:39.116] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.117] [INFO   ] dealer have table
+[13:57:39.117] [INFO   ] dealer realese table
+[13:57:39.117] [INFO   ] dealer have table
+[13:57:39.128] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.128] [INFO   ] dealer have table
+[13:57:39.129] [INFO   ] dealer realese table
+[13:57:39.129] [INFO   ] dealer have table
+[13:57:39.140] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.140] [INFO   ] dealer have table
+[13:57:39.141] [INFO   ] dealer realese table
+[13:57:39.141] [INFO   ] dealer have table
+[13:57:39.152] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.153] [INFO   ] dealer have table
+[13:57:39.153] [INFO   ] dealer realese table
+[13:57:39.153] [INFO   ] dealer have table
+[13:57:39.164] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.165] [INFO   ] dealer have table
+[13:57:39.165] [INFO   ] dealer realese table
+[13:57:39.165] [INFO   ] dealer have table
+[13:57:39.176] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.177] [INFO   ] dealer have table
+[13:57:39.177] [INFO   ] dealer realese table
+[13:57:39.177] [INFO   ] dealer have table
+[13:57:39.188] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.189] [INFO   ] dealer have table
+[13:57:39.189] [INFO   ] dealer realese table
+[13:57:39.189] [INFO   ] dealer have table
+[13:57:39.200] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.200] [INFO   ] dealer have table
+[13:57:39.201] [INFO   ] dealer realese table
+[13:57:39.201] [INFO   ] dealer have table
+[13:57:39.212] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.212] [INFO   ] dealer have table
+[13:57:39.213] [INFO   ] dealer realese table
+[13:57:39.213] [INFO   ] dealer have table
+[13:57:39.224] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.224] [INFO   ] dealer have table
+[13:57:39.225] [INFO   ] dealer realese table
+[13:57:39.225] [INFO   ] dealer have table
+[13:57:39.236] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.236] [INFO   ] dealer have table
+[13:57:39.237] [INFO   ] dealer realese table
+[13:57:39.237] [INFO   ] dealer have table
+[13:57:39.248] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.248] [INFO   ] dealer have table
+[13:57:39.249] [INFO   ] dealer realese table
+[13:57:39.250] [INFO   ] dealer have table
+[13:57:39.261] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.261] [INFO   ] dealer have table
+[13:57:39.262] [INFO   ] dealer realese table
+[13:57:39.262] [INFO   ] dealer have table
+[13:57:39.273] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.274] [INFO   ] dealer have table
+[13:57:39.274] [INFO   ] dealer realese table
+[13:57:39.274] [INFO   ] dealer have table
+[13:57:39.285] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.286] [INFO   ] dealer have table
+[13:57:39.286] [INFO   ] dealer realese table
+[13:57:39.287] [INFO   ] dealer have table
+[13:57:39.297] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.298] [INFO   ] dealer have table
+[13:57:39.298] [INFO   ] dealer realese table
+[13:57:39.299] [INFO   ] dealer have table
+[13:57:39.310] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.310] [INFO   ] dealer have table
+[13:57:39.311] [INFO   ] dealer realese table
+[13:57:39.312] [INFO   ] dealer have table
+[13:57:39.323] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.323] [INFO   ] dealer have table
+[13:57:39.324] [INFO   ] dealer realese table
+[13:57:39.324] [INFO   ] dealer have table
+[13:57:39.335] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.336] [INFO   ] dealer have table
+[13:57:39.336] [INFO   ] dealer realese table
+[13:57:39.337] [INFO   ] dealer have table
+[13:57:39.347] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.348] [INFO   ] dealer have table
+[13:57:39.348] [INFO   ] dealer realese table
+[13:57:39.349] [INFO   ] dealer have table
+[13:57:39.360] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.360] [INFO   ] dealer have table
+[13:57:39.360] [INFO   ] dealer realese table
+[13:57:39.361] [INFO   ] dealer have table
+[13:57:39.371] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.372] [INFO   ] dealer have table
+[13:57:39.372] [INFO   ] dealer realese table
+[13:57:39.372] [INFO   ] dealer have table
+[13:57:39.383] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.384] [INFO   ] dealer have table
+[13:57:39.385] [INFO   ] dealer realese table
+[13:57:39.385] [INFO   ] dealer have table
+[13:57:39.396] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.396] [INFO   ] dealer have table
+[13:57:39.397] [INFO   ] dealer realese table
+[13:57:39.397] [INFO   ] dealer have table
+[13:57:39.408] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.408] [INFO   ] dealer have table
+[13:57:39.409] [INFO   ] dealer realese table
+[13:57:39.409] [INFO   ] dealer have table
+[13:57:39.420] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.420] [INFO   ] dealer have table
+[13:57:39.421] [INFO   ] dealer realese table
+[13:57:39.421] [INFO   ] dealer have table
+[13:57:39.432] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.432] [INFO   ] dealer have table
+[13:57:39.433] [INFO   ] dealer realese table
+[13:57:39.433] [INFO   ] dealer have table
+[13:57:39.444] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.444] [INFO   ] dealer have table
+[13:57:39.445] [INFO   ] dealer realese table
+[13:57:39.445] [INFO   ] dealer have table
+[13:57:39.456] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.457] [INFO   ] dealer have table
+[13:57:39.457] [INFO   ] dealer realese table
+[13:57:39.457] [INFO   ] dealer have table
+[13:57:39.468] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.469] [INFO   ] dealer have table
+[13:57:39.469] [INFO   ] dealer realese table
+[13:57:39.469] [INFO   ] dealer have table
+[13:57:39.480] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.481] [INFO   ] dealer have table
+[13:57:39.481] [INFO   ] dealer realese table
+[13:57:39.481] [INFO   ] dealer have table
+[13:57:39.492] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.492] [INFO   ] dealer have table
+[13:57:39.493] [INFO   ] dealer realese table
+[13:57:39.493] [INFO   ] dealer have table
+[13:57:39.504] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.504] [INFO   ] dealer have table
+[13:57:39.505] [INFO   ] dealer realese table
+[13:57:39.505] [INFO   ] dealer have table
+[13:57:39.516] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.517] [INFO   ] dealer have table
+[13:57:39.517] [INFO   ] dealer realese table
+[13:57:39.517] [INFO   ] dealer have table
+[13:57:39.528] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.528] [INFO   ] dealer have table
+[13:57:39.529] [INFO   ] dealer realese table
+[13:57:39.529] [INFO   ] dealer have table
+[13:57:39.540] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.540] [INFO   ] dealer have table
+[13:57:39.541] [INFO   ] dealer realese table
+[13:57:39.541] [INFO   ] dealer have table
+[13:57:39.552] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.552] [INFO   ] dealer have table
+[13:57:39.553] [INFO   ] dealer realese table
+[13:57:39.553] [INFO   ] dealer have table
+[13:57:39.564] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.565] [INFO   ] dealer have table
+[13:57:39.565] [INFO   ] dealer realese table
+[13:57:39.566] [INFO   ] dealer have table
+[13:57:39.576] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.577] [INFO   ] dealer have table
+[13:57:39.577] [INFO   ] dealer realese table
+[13:57:39.578] [INFO   ] dealer have table
+[13:57:39.588] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.589] [INFO   ] dealer have table
+[13:57:39.589] [INFO   ] dealer realese table
+[13:57:39.590] [INFO   ] dealer have table
+[13:57:39.601] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.601] [INFO   ] dealer have table
+[13:57:39.602] [INFO   ] dealer realese table
+[13:57:39.602] [INFO   ] dealer have table
+[13:57:39.613] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.613] [INFO   ] dealer have table
+[13:57:39.614] [INFO   ] dealer realese table
+[13:57:39.614] [INFO   ] dealer have table
+[13:57:39.625] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.626] [INFO   ] dealer have table
+[13:57:39.626] [INFO   ] dealer realese table
+[13:57:39.626] [INFO   ] dealer have table
+[13:57:39.637] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.638] [INFO   ] dealer have table
+[13:57:39.638] [INFO   ] dealer realese table
+[13:57:39.639] [INFO   ] dealer have table
+[13:57:39.649] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.650] [INFO   ] dealer have table
+[13:57:39.650] [INFO   ] dealer realese table
+[13:57:39.651] [INFO   ] dealer have table
+[13:57:39.661] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.662] [INFO   ] dealer have table
+[13:57:39.663] [INFO   ] dealer realese table
+[13:57:39.664] [INFO   ] dealer have table
+[13:57:39.675] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.676] [INFO   ] dealer have table
+[13:57:39.676] [INFO   ] dealer realese table
+[13:57:39.676] [INFO   ] dealer have table
+[13:57:39.682] [INFO   ] player 4 out queue 0
+[13:57:39.682] [SEVERE ] player 4 placing token on slot 1
+[13:57:39.683] [INFO   ] player 4 in claims 1
+[13:57:39.683] [INFO   ] player 4 has table
+[13:57:39.684] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[13:57:39.684] [INFO   ] dealer have table
+[13:57:39.684] [INFO   ] took 4out of claims for a check
+[13:57:39.685] [INFO   ] dealer realese table
+[13:57:39.685] [INFO   ] player 4 wait table
+[13:57:39.686] [INFO   ] player 4 realese table
+[13:57:39.686] [SEVERE ] setting player 4 freeze to 3000
+[13:57:39.686] [INFO   ] dealer have table
+[13:57:39.690] [INFO   ] player 3 out queue 0
+[13:57:39.691] [SEVERE ] removing player 3 token from slot 2
+[13:57:39.691] [INFO   ] im player 3 entering return
+[13:57:39.693] [INFO   ] im player 3 exit return
+[13:57:39.695] [INFO   ] player 3 waiting for queue 0
+[13:57:39.697] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.698] [INFO   ] dealer have table
+[13:57:39.698] [INFO   ] dealer realese table
+[13:57:39.698] [INFO   ] dealer have table
+[13:57:39.709] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.709] [INFO   ] dealer have table
+[13:57:39.710] [INFO   ] dealer realese table
+[13:57:39.710] [INFO   ] dealer have table
+[13:57:39.721] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.722] [INFO   ] dealer have table
+[13:57:39.723] [INFO   ] dealer realese table
+[13:57:39.724] [INFO   ] dealer have table
+[13:57:39.735] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.736] [INFO   ] dealer have table
+[13:57:39.736] [INFO   ] dealer realese table
+[13:57:39.737] [INFO   ] dealer have table
+[13:57:39.747] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.748] [INFO   ] dealer have table
+[13:57:39.748] [INFO   ] dealer realese table
+[13:57:39.748] [INFO   ] dealer have table
+[13:57:39.759] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.760] [INFO   ] dealer have table
+[13:57:39.760] [INFO   ] dealer realese table
+[13:57:39.761] [INFO   ] dealer have table
+[13:57:39.772] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.772] [INFO   ] dealer have table
+[13:57:39.773] [INFO   ] dealer realese table
+[13:57:39.773] [INFO   ] dealer have table
+[13:57:39.784] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.785] [INFO   ] dealer have table
+[13:57:39.785] [INFO   ] dealer realese table
+[13:57:39.785] [INFO   ] dealer have table
+[13:57:39.796] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.796] [INFO   ] dealer have table
+[13:57:39.797] [INFO   ] dealer realese table
+[13:57:39.797] [INFO   ] dealer have table
+[13:57:39.808] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.809] [INFO   ] dealer have table
+[13:57:39.810] [INFO   ] dealer realese table
+[13:57:39.810] [INFO   ] dealer have table
+[13:57:39.822] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.822] [INFO   ] dealer have table
+[13:57:39.823] [INFO   ] dealer realese table
+[13:57:39.823] [INFO   ] dealer have table
+[13:57:39.834] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.835] [INFO   ] dealer have table
+[13:57:39.835] [INFO   ] dealer realese table
+[13:57:39.836] [INFO   ] dealer have table
+[13:57:39.847] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.847] [INFO   ] dealer have table
+[13:57:39.847] [INFO   ] dealer realese table
+[13:57:39.848] [INFO   ] dealer have table
+[13:57:39.858] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.859] [INFO   ] dealer have table
+[13:57:39.859] [INFO   ] dealer realese table
+[13:57:39.860] [INFO   ] dealer have table
+[13:57:39.871] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.871] [INFO   ] dealer have table
+[13:57:39.871] [INFO   ] dealer realese table
+[13:57:39.872] [INFO   ] dealer have table
+[13:57:39.883] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.883] [INFO   ] dealer have table
+[13:57:39.883] [INFO   ] dealer realese table
+[13:57:39.884] [INFO   ] dealer have table
+[13:57:39.895] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.895] [INFO   ] dealer have table
+[13:57:39.896] [INFO   ] dealer realese table
+[13:57:39.896] [INFO   ] dealer have table
+[13:57:39.907] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.908] [INFO   ] dealer have table
+[13:57:39.909] [INFO   ] dealer realese table
+[13:57:39.910] [INFO   ] dealer have table
+[13:57:39.921] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.921] [INFO   ] dealer have table
+[13:57:39.922] [INFO   ] dealer realese table
+[13:57:39.922] [INFO   ] dealer have table
+[13:57:39.933] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.934] [INFO   ] dealer have table
+[13:57:39.934] [INFO   ] dealer realese table
+[13:57:39.934] [INFO   ] dealer have table
+[13:57:39.945] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.946] [INFO   ] dealer have table
+[13:57:39.946] [INFO   ] dealer realese table
+[13:57:39.946] [INFO   ] dealer have table
+[13:57:39.957] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.958] [INFO   ] dealer have table
+[13:57:39.959] [INFO   ] dealer realese table
+[13:57:39.960] [INFO   ] dealer have table
+[13:57:39.971] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.971] [INFO   ] dealer have table
+[13:57:39.972] [INFO   ] dealer realese table
+[13:57:39.972] [INFO   ] dealer have table
+[13:57:39.983] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.984] [INFO   ] dealer have table
+[13:57:39.984] [INFO   ] dealer realese table
+[13:57:39.985] [INFO   ] dealer have table
+[13:57:39.995] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:39.996] [INFO   ] dealer have table
+[13:57:39.996] [INFO   ] dealer realese table
+[13:57:39.996] [INFO   ] dealer have table
+[13:57:40.007] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.008] [INFO   ] dealer have table
+[13:57:40.008] [INFO   ] dealer realese table
+[13:57:40.008] [INFO   ] dealer have table
+[13:57:40.019] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.020] [INFO   ] dealer have table
+[13:57:40.020] [INFO   ] dealer realese table
+[13:57:40.020] [INFO   ] dealer have table
+[13:57:40.031] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.032] [INFO   ] dealer have table
+[13:57:40.032] [INFO   ] dealer realese table
+[13:57:40.033] [INFO   ] dealer have table
+[13:57:40.044] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.044] [INFO   ] dealer have table
+[13:57:40.045] [INFO   ] dealer realese table
+[13:57:40.045] [INFO   ] dealer have table
+[13:57:40.057] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.058] [INFO   ] dealer have table
+[13:57:40.058] [INFO   ] dealer realese table
+[13:57:40.059] [INFO   ] dealer have table
+[13:57:40.071] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.071] [INFO   ] dealer have table
+[13:57:40.072] [INFO   ] dealer realese table
+[13:57:40.072] [INFO   ] dealer have table
+[13:57:40.084] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.084] [INFO   ] dealer have table
+[13:57:40.085] [INFO   ] dealer realese table
+[13:57:40.085] [INFO   ] dealer have table
+[13:57:40.097] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.098] [INFO   ] dealer have table
+[13:57:40.098] [INFO   ] dealer realese table
+[13:57:40.099] [INFO   ] dealer have table
+[13:57:40.110] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.110] [INFO   ] dealer have table
+[13:57:40.110] [INFO   ] dealer realese table
+[13:57:40.111] [INFO   ] dealer have table
+[13:57:40.121] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.122] [INFO   ] dealer have table
+[13:57:40.122] [INFO   ] dealer realese table
+[13:57:40.122] [INFO   ] dealer have table
+[13:57:40.133] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.133] [INFO   ] dealer have table
+[13:57:40.134] [INFO   ] dealer realese table
+[13:57:40.134] [INFO   ] dealer have table
+[13:57:40.145] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.145] [INFO   ] dealer have table
+[13:57:40.146] [INFO   ] dealer realese table
+[13:57:40.146] [INFO   ] dealer have table
+[13:57:40.158] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.158] [INFO   ] dealer have table
+[13:57:40.159] [INFO   ] dealer realese table
+[13:57:40.159] [INFO   ] dealer have table
+[13:57:40.170] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.172] [INFO   ] dealer have table
+[13:57:40.173] [INFO   ] dealer realese table
+[13:57:40.173] [INFO   ] dealer have table
+[13:57:40.184] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.185] [INFO   ] dealer have table
+[13:57:40.185] [INFO   ] dealer realese table
+[13:57:40.186] [INFO   ] dealer have table
+[13:57:40.197] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.197] [INFO   ] dealer have table
+[13:57:40.198] [INFO   ] dealer realese table
+[13:57:40.198] [INFO   ] dealer have table
+[13:57:40.209] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.209] [INFO   ] dealer have table
+[13:57:40.210] [INFO   ] dealer realese table
+[13:57:40.210] [INFO   ] dealer have table
+[13:57:40.221] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.222] [INFO   ] dealer have table
+[13:57:40.222] [INFO   ] dealer realese table
+[13:57:40.223] [INFO   ] dealer have table
+[13:57:40.233] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.234] [INFO   ] dealer have table
+[13:57:40.234] [INFO   ] dealer realese table
+[13:57:40.235] [INFO   ] dealer have table
+[13:57:40.246] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.246] [INFO   ] dealer have table
+[13:57:40.246] [INFO   ] dealer realese table
+[13:57:40.247] [INFO   ] dealer have table
+[13:57:40.258] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.258] [INFO   ] dealer have table
+[13:57:40.259] [INFO   ] dealer realese table
+[13:57:40.259] [INFO   ] dealer have table
+[13:57:40.271] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.271] [INFO   ] dealer have table
+[13:57:40.272] [INFO   ] dealer realese table
+[13:57:40.272] [INFO   ] dealer have table
+[13:57:40.283] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.284] [INFO   ] dealer have table
+[13:57:40.284] [INFO   ] dealer realese table
+[13:57:40.285] [INFO   ] dealer have table
+[13:57:40.296] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.296] [INFO   ] dealer have table
+[13:57:40.297] [INFO   ] dealer realese table
+[13:57:40.297] [INFO   ] dealer have table
+[13:57:40.308] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.309] [INFO   ] dealer have table
+[13:57:40.309] [INFO   ] dealer realese table
+[13:57:40.310] [INFO   ] dealer have table
+[13:57:40.322] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.322] [INFO   ] dealer have table
+[13:57:40.323] [INFO   ] dealer realese table
+[13:57:40.323] [INFO   ] dealer have table
+[13:57:40.334] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.334] [INFO   ] dealer have table
+[13:57:40.335] [INFO   ] dealer realese table
+[13:57:40.335] [INFO   ] dealer have table
+[13:57:40.346] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.347] [INFO   ] dealer have table
+[13:57:40.347] [INFO   ] dealer realese table
+[13:57:40.348] [INFO   ] dealer have table
+[13:57:40.359] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.359] [INFO   ] dealer have table
+[13:57:40.360] [INFO   ] dealer realese table
+[13:57:40.360] [INFO   ] dealer have table
+[13:57:40.371] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.372] [INFO   ] dealer have table
+[13:57:40.372] [INFO   ] dealer realese table
+[13:57:40.373] [INFO   ] dealer have table
+[13:57:40.383] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.384] [INFO   ] dealer have table
+[13:57:40.384] [INFO   ] dealer realese table
+[13:57:40.385] [INFO   ] dealer have table
+[13:57:40.396] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.396] [INFO   ] dealer have table
+[13:57:40.397] [INFO   ] dealer realese table
+[13:57:40.397] [INFO   ] dealer have table
+[13:57:40.408] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.409] [INFO   ] dealer have table
+[13:57:40.409] [INFO   ] dealer realese table
+[13:57:40.410] [INFO   ] dealer have table
+[13:57:40.421] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.422] [INFO   ] dealer have table
+[13:57:40.422] [INFO   ] dealer realese table
+[13:57:40.423] [INFO   ] dealer have table
+[13:57:40.434] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.434] [INFO   ] dealer have table
+[13:57:40.435] [INFO   ] dealer realese table
+[13:57:40.435] [INFO   ] dealer have table
+[13:57:40.446] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.447] [INFO   ] dealer have table
+[13:57:40.447] [INFO   ] dealer realese table
+[13:57:40.448] [INFO   ] dealer have table
+[13:57:40.459] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.459] [INFO   ] dealer have table
+[13:57:40.460] [INFO   ] dealer realese table
+[13:57:40.460] [INFO   ] dealer have table
+[13:57:40.471] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.472] [INFO   ] dealer have table
+[13:57:40.473] [INFO   ] dealer realese table
+[13:57:40.473] [INFO   ] dealer have table
+[13:57:40.485] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.486] [INFO   ] dealer have table
+[13:57:40.487] [INFO   ] dealer realese table
+[13:57:40.487] [INFO   ] dealer have table
+[13:57:40.499] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.499] [INFO   ] dealer have table
+[13:57:40.500] [INFO   ] dealer realese table
+[13:57:40.500] [INFO   ] dealer have table
+[13:57:40.511] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.512] [INFO   ] dealer have table
+[13:57:40.512] [INFO   ] dealer realese table
+[13:57:40.513] [INFO   ] dealer have table
+[13:57:40.524] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.525] [INFO   ] dealer have table
+[13:57:40.526] [INFO   ] dealer realese table
+[13:57:40.526] [INFO   ] dealer have table
+[13:57:40.537] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.538] [INFO   ] dealer have table
+[13:57:40.538] [INFO   ] dealer realese table
+[13:57:40.538] [INFO   ] dealer have table
+[13:57:40.550] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.550] [INFO   ] dealer have table
+[13:57:40.551] [INFO   ] dealer realese table
+[13:57:40.551] [INFO   ] dealer have table
+[13:57:40.563] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.563] [INFO   ] dealer have table
+[13:57:40.563] [INFO   ] dealer realese table
+[13:57:40.564] [INFO   ] dealer have table
+[13:57:40.575] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.575] [INFO   ] dealer have table
+[13:57:40.576] [INFO   ] dealer realese table
+[13:57:40.576] [INFO   ] dealer have table
+[13:57:40.587] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.588] [INFO   ] dealer have table
+[13:57:40.588] [INFO   ] dealer realese table
+[13:57:40.589] [INFO   ] dealer have table
+[13:57:40.599] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.600] [INFO   ] dealer have table
+[13:57:40.600] [INFO   ] dealer realese table
+[13:57:40.600] [INFO   ] dealer have table
+[13:57:40.611] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.611] [INFO   ] dealer have table
+[13:57:40.612] [INFO   ] dealer realese table
+[13:57:40.612] [INFO   ] dealer have table
+[13:57:40.623] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.623] [INFO   ] dealer have table
+[13:57:40.624] [INFO   ] dealer realese table
+[13:57:40.624] [INFO   ] dealer have table
+[13:57:40.635] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.635] [INFO   ] dealer have table
+[13:57:40.636] [INFO   ] dealer realese table
+[13:57:40.637] [INFO   ] dealer have table
+[13:57:40.647] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.648] [INFO   ] dealer have table
+[13:57:40.649] [INFO   ] dealer realese table
+[13:57:40.649] [INFO   ] dealer have table
+[13:57:40.660] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.660] [INFO   ] dealer have table
+[13:57:40.661] [INFO   ] dealer realese table
+[13:57:40.661] [INFO   ] dealer have table
+[13:57:40.672] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.673] [INFO   ] dealer have table
+[13:57:40.673] [INFO   ] dealer realese table
+[13:57:40.673] [INFO   ] dealer have table
+[13:57:40.684] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.684] [INFO   ] dealer have table
+[13:57:40.685] [INFO   ] dealer realese table
+[13:57:40.685] [INFO   ] dealer have table
+[13:57:40.687] [SEVERE ] setting player 4 freeze to 2000
+[13:57:40.690] [INFO   ] player 3 out queue 0
+[13:57:40.690] [SEVERE ] player 3 placing token on slot 3
+[13:57:40.691] [INFO   ] im player 3 entering return
+[13:57:40.691] [INFO   ] im player 3 exit return
+[13:57:40.692] [INFO   ] player 3 waiting for queue 0
+[13:57:40.696] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.696] [INFO   ] dealer have table
+[13:57:40.697] [INFO   ] dealer realese table
+[13:57:40.697] [INFO   ] dealer have table
+[13:57:40.708] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.708] [INFO   ] dealer have table
+[13:57:40.709] [INFO   ] dealer realese table
+[13:57:40.709] [INFO   ] dealer have table
+[13:57:40.720] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.720] [INFO   ] dealer have table
+[13:57:40.721] [INFO   ] dealer realese table
+[13:57:40.721] [INFO   ] dealer have table
+[13:57:40.732] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.732] [INFO   ] dealer have table
+[13:57:40.732] [INFO   ] dealer realese table
+[13:57:40.733] [INFO   ] dealer have table
+[13:57:40.743] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.744] [INFO   ] dealer have table
+[13:57:40.744] [INFO   ] dealer realese table
+[13:57:40.744] [INFO   ] dealer have table
+[13:57:40.755] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.755] [INFO   ] dealer have table
+[13:57:40.756] [INFO   ] dealer realese table
+[13:57:40.756] [INFO   ] dealer have table
+[13:57:40.767] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.768] [INFO   ] dealer have table
+[13:57:40.768] [INFO   ] dealer realese table
+[13:57:40.769] [INFO   ] dealer have table
+[13:57:40.779] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.780] [INFO   ] dealer have table
+[13:57:40.780] [INFO   ] dealer realese table
+[13:57:40.781] [INFO   ] dealer have table
+[13:57:40.792] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.792] [INFO   ] dealer have table
+[13:57:40.793] [INFO   ] dealer realese table
+[13:57:40.793] [INFO   ] dealer have table
+[13:57:40.804] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.805] [INFO   ] dealer have table
+[13:57:40.805] [INFO   ] dealer realese table
+[13:57:40.805] [INFO   ] dealer have table
+[13:57:40.816] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.817] [INFO   ] dealer have table
+[13:57:40.817] [INFO   ] dealer realese table
+[13:57:40.818] [INFO   ] dealer have table
+[13:57:40.828] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.829] [INFO   ] dealer have table
+[13:57:40.829] [INFO   ] dealer realese table
+[13:57:40.830] [INFO   ] dealer have table
+[13:57:40.841] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.841] [INFO   ] dealer have table
+[13:57:40.842] [INFO   ] dealer realese table
+[13:57:40.842] [INFO   ] dealer have table
+[13:57:40.853] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.854] [INFO   ] dealer have table
+[13:57:40.854] [INFO   ] dealer realese table
+[13:57:40.854] [INFO   ] dealer have table
+[13:57:40.865] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.866] [INFO   ] dealer have table
+[13:57:40.866] [INFO   ] dealer realese table
+[13:57:40.867] [INFO   ] dealer have table
+[13:57:40.878] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.879] [INFO   ] dealer have table
+[13:57:40.879] [INFO   ] dealer realese table
+[13:57:40.880] [INFO   ] dealer have table
+[13:57:40.891] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.891] [INFO   ] dealer have table
+[13:57:40.892] [INFO   ] dealer realese table
+[13:57:40.892] [INFO   ] dealer have table
+[13:57:40.903] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.903] [INFO   ] dealer have table
+[13:57:40.904] [INFO   ] dealer realese table
+[13:57:40.904] [INFO   ] dealer have table
+[13:57:40.915] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.916] [INFO   ] dealer have table
+[13:57:40.916] [INFO   ] dealer realese table
+[13:57:40.917] [INFO   ] dealer have table
+[13:57:40.927] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.928] [INFO   ] dealer have table
+[13:57:40.929] [INFO   ] dealer realese table
+[13:57:40.929] [INFO   ] dealer have table
+[13:57:40.940] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.941] [INFO   ] dealer have table
+[13:57:40.941] [INFO   ] dealer realese table
+[13:57:40.942] [INFO   ] dealer have table
+[13:57:40.952] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.953] [INFO   ] dealer have table
+[13:57:40.953] [INFO   ] dealer realese table
+[13:57:40.953] [INFO   ] dealer have table
+[13:57:40.964] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.965] [INFO   ] dealer have table
+[13:57:40.965] [INFO   ] dealer realese table
+[13:57:40.965] [INFO   ] dealer have table
+[13:57:40.976] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.977] [INFO   ] dealer have table
+[13:57:40.977] [INFO   ] dealer realese table
+[13:57:40.978] [INFO   ] dealer have table
+[13:57:40.989] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:40.989] [INFO   ] dealer have table
+[13:57:40.989] [INFO   ] dealer realese table
+[13:57:40.990] [INFO   ] dealer have table
+[13:57:41.001] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.001] [INFO   ] dealer have table
+[13:57:41.001] [INFO   ] dealer realese table
+[13:57:41.001] [INFO   ] dealer have table
+[13:57:41.012] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.013] [INFO   ] dealer have table
+[13:57:41.013] [INFO   ] dealer realese table
+[13:57:41.013] [INFO   ] dealer have table
+[13:57:41.024] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.024] [INFO   ] dealer have table
+[13:57:41.025] [INFO   ] dealer realese table
+[13:57:41.025] [INFO   ] dealer have table
+[13:57:41.036] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.036] [INFO   ] dealer have table
+[13:57:41.036] [INFO   ] dealer realese table
+[13:57:41.037] [INFO   ] dealer have table
+[13:57:41.048] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.048] [INFO   ] dealer have table
+[13:57:41.048] [INFO   ] dealer realese table
+[13:57:41.049] [INFO   ] dealer have table
+[13:57:41.060] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.060] [INFO   ] dealer have table
+[13:57:41.060] [INFO   ] dealer realese table
+[13:57:41.061] [INFO   ] dealer have table
+[13:57:41.072] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.072] [INFO   ] dealer have table
+[13:57:41.072] [INFO   ] dealer realese table
+[13:57:41.073] [INFO   ] dealer have table
+[13:57:41.084] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.084] [INFO   ] dealer have table
+[13:57:41.084] [INFO   ] dealer realese table
+[13:57:41.085] [INFO   ] dealer have table
+[13:57:41.095] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.096] [INFO   ] dealer have table
+[13:57:41.096] [INFO   ] dealer realese table
+[13:57:41.096] [INFO   ] dealer have table
+[13:57:41.107] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.108] [INFO   ] dealer have table
+[13:57:41.108] [INFO   ] dealer realese table
+[13:57:41.109] [INFO   ] dealer have table
+[13:57:41.119] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.120] [INFO   ] dealer have table
+[13:57:41.120] [INFO   ] dealer realese table
+[13:57:41.121] [INFO   ] dealer have table
+[13:57:41.132] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.132] [INFO   ] dealer have table
+[13:57:41.132] [INFO   ] dealer realese table
+[13:57:41.132] [INFO   ] dealer have table
+[13:57:41.143] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.144] [INFO   ] dealer have table
+[13:57:41.144] [INFO   ] dealer realese table
+[13:57:41.145] [INFO   ] dealer have table
+[13:57:41.156] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.156] [INFO   ] dealer have table
+[13:57:41.157] [INFO   ] dealer realese table
+[13:57:41.157] [INFO   ] dealer have table
+[13:57:41.168] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.169] [INFO   ] dealer have table
+[13:57:41.169] [INFO   ] dealer realese table
+[13:57:41.170] [INFO   ] dealer have table
+[13:57:41.181] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.182] [INFO   ] dealer have table
+[13:57:41.182] [INFO   ] dealer realese table
+[13:57:41.182] [INFO   ] dealer have table
+[13:57:41.193] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.194] [INFO   ] dealer have table
+[13:57:41.194] [INFO   ] dealer realese table
+[13:57:41.194] [INFO   ] dealer have table
+[13:57:41.205] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.206] [INFO   ] dealer have table
+[13:57:41.206] [INFO   ] dealer realese table
+[13:57:41.206] [INFO   ] dealer have table
+[13:57:41.217] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.218] [INFO   ] dealer have table
+[13:57:41.218] [INFO   ] dealer realese table
+[13:57:41.218] [INFO   ] dealer have table
+[13:57:41.229] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.230] [INFO   ] dealer have table
+[13:57:41.230] [INFO   ] dealer realese table
+[13:57:41.230] [INFO   ] dealer have table
+[13:57:41.241] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.242] [INFO   ] dealer have table
+[13:57:41.242] [INFO   ] dealer realese table
+[13:57:41.243] [INFO   ] dealer have table
+[13:57:41.254] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.255] [INFO   ] dealer have table
+[13:57:41.255] [INFO   ] dealer realese table
+[13:57:41.256] [INFO   ] dealer have table
+[13:57:41.266] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.267] [INFO   ] dealer have table
+[13:57:41.267] [INFO   ] dealer realese table
+[13:57:41.268] [INFO   ] dealer have table
+[13:57:41.279] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.279] [INFO   ] dealer have table
+[13:57:41.279] [INFO   ] dealer realese table
+[13:57:41.280] [INFO   ] dealer have table
+[13:57:41.290] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.291] [INFO   ] dealer have table
+[13:57:41.292] [INFO   ] dealer realese table
+[13:57:41.292] [INFO   ] dealer have table
+[13:57:41.304] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.304] [INFO   ] dealer have table
+[13:57:41.305] [INFO   ] dealer realese table
+[13:57:41.305] [INFO   ] dealer have table
+[13:57:41.316] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.316] [INFO   ] dealer have table
+[13:57:41.316] [INFO   ] dealer realese table
+[13:57:41.317] [INFO   ] dealer have table
+[13:57:41.327] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.328] [INFO   ] dealer have table
+[13:57:41.328] [INFO   ] dealer realese table
+[13:57:41.329] [INFO   ] dealer have table
+[13:57:41.340] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.340] [INFO   ] dealer have table
+[13:57:41.341] [INFO   ] dealer realese table
+[13:57:41.341] [INFO   ] dealer have table
+[13:57:41.352] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.353] [INFO   ] dealer have table
+[13:57:41.353] [INFO   ] dealer realese table
+[13:57:41.354] [INFO   ] dealer have table
+[13:57:41.365] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.365] [INFO   ] dealer have table
+[13:57:41.366] [INFO   ] dealer realese table
+[13:57:41.366] [INFO   ] dealer have table
+[13:57:41.377] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.378] [INFO   ] dealer have table
+[13:57:41.378] [INFO   ] dealer realese table
+[13:57:41.379] [INFO   ] dealer have table
+[13:57:41.390] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.390] [INFO   ] dealer have table
+[13:57:41.390] [INFO   ] dealer realese table
+[13:57:41.391] [INFO   ] dealer have table
+[13:57:41.402] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.402] [INFO   ] dealer have table
+[13:57:41.403] [INFO   ] dealer realese table
+[13:57:41.403] [INFO   ] dealer have table
+[13:57:41.414] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.414] [INFO   ] dealer have table
+[13:57:41.415] [INFO   ] dealer realese table
+[13:57:41.415] [INFO   ] dealer have table
+[13:57:41.426] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.426] [INFO   ] dealer have table
+[13:57:41.427] [INFO   ] dealer realese table
+[13:57:41.427] [INFO   ] dealer have table
+[13:57:41.438] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.439] [INFO   ] dealer have table
+[13:57:41.439] [INFO   ] dealer realese table
+[13:57:41.439] [INFO   ] dealer have table
+[13:57:41.450] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.451] [INFO   ] dealer have table
+[13:57:41.451] [INFO   ] dealer realese table
+[13:57:41.451] [INFO   ] dealer have table
+[13:57:41.462] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.463] [INFO   ] dealer have table
+[13:57:41.463] [INFO   ] dealer realese table
+[13:57:41.463] [INFO   ] dealer have table
+[13:57:41.474] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.475] [INFO   ] dealer have table
+[13:57:41.475] [INFO   ] dealer realese table
+[13:57:41.476] [INFO   ] dealer have table
+[13:57:41.486] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.487] [INFO   ] dealer have table
+[13:57:41.487] [INFO   ] dealer realese table
+[13:57:41.487] [INFO   ] dealer have table
+[13:57:41.498] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.499] [INFO   ] dealer have table
+[13:57:41.499] [INFO   ] dealer realese table
+[13:57:41.500] [INFO   ] dealer have table
+[13:57:41.510] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.511] [INFO   ] dealer have table
+[13:57:41.511] [INFO   ] dealer realese table
+[13:57:41.512] [INFO   ] dealer have table
+[13:57:41.523] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.523] [INFO   ] dealer have table
+[13:57:41.523] [INFO   ] dealer realese table
+[13:57:41.524] [INFO   ] dealer have table
+[13:57:41.535] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.535] [INFO   ] dealer have table
+[13:57:41.536] [INFO   ] dealer realese table
+[13:57:41.536] [INFO   ] dealer have table
+[13:57:41.547] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.547] [INFO   ] dealer have table
+[13:57:41.547] [INFO   ] dealer realese table
+[13:57:41.548] [INFO   ] dealer have table
+[13:57:41.559] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.559] [INFO   ] dealer have table
+[13:57:41.559] [INFO   ] dealer realese table
+[13:57:41.560] [INFO   ] dealer have table
+[13:57:41.571] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.571] [INFO   ] dealer have table
+[13:57:41.572] [INFO   ] dealer realese table
+[13:57:41.572] [INFO   ] dealer have table
+[13:57:41.583] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.583] [INFO   ] dealer have table
+[13:57:41.584] [INFO   ] dealer realese table
+[13:57:41.584] [INFO   ] dealer have table
+[13:57:41.595] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.596] [INFO   ] dealer have table
+[13:57:41.596] [INFO   ] dealer realese table
+[13:57:41.596] [INFO   ] dealer have table
+[13:57:41.607] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.608] [INFO   ] dealer have table
+[13:57:41.609] [INFO   ] dealer realese table
+[13:57:41.609] [INFO   ] dealer have table
+[13:57:41.620] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.621] [INFO   ] dealer have table
+[13:57:41.621] [INFO   ] dealer realese table
+[13:57:41.621] [INFO   ] dealer have table
+[13:57:41.632] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.633] [INFO   ] dealer have table
+[13:57:41.633] [INFO   ] dealer realese table
+[13:57:41.634] [INFO   ] dealer have table
+[13:57:41.644] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.645] [INFO   ] dealer have table
+[13:57:41.645] [INFO   ] dealer realese table
+[13:57:41.646] [INFO   ] dealer have table
+[13:57:41.656] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.657] [INFO   ] dealer have table
+[13:57:41.657] [INFO   ] dealer realese table
+[13:57:41.658] [INFO   ] dealer have table
+[13:57:41.669] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.670] [INFO   ] dealer have table
+[13:57:41.671] [INFO   ] dealer realese table
+[13:57:41.671] [INFO   ] dealer have table
+[13:57:41.682] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.683] [INFO   ] dealer have table
+[13:57:41.683] [INFO   ] dealer realese table
+[13:57:41.684] [INFO   ] dealer have table
+[13:57:41.687] [SEVERE ] setting player 4 freeze to 1000
+[13:57:41.690] [INFO   ] player 3 out queue 0
+[13:57:41.691] [SEVERE ] player 3 placing token on slot 5
+[13:57:41.691] [INFO   ] player 3 in claims 1
+[13:57:41.691] [INFO   ] player 3 has table
+[13:57:41.692] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[13:57:41.694] [INFO   ] dealer have table
+[13:57:41.694] [INFO   ] took 3out of claims for a check
+[13:57:41.695] [INFO   ] dealer realese table
+[13:57:41.695] [INFO   ] player 3 wait table
+[13:57:41.696] [INFO   ] player 3 realese table
+[13:57:41.696] [SEVERE ] setting player 3 freeze to 3000
+[13:57:41.696] [INFO   ] dealer have table
+[13:57:41.707] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.707] [INFO   ] dealer have table
+[13:57:41.708] [INFO   ] dealer realese table
+[13:57:41.709] [INFO   ] dealer have table
+[13:57:41.720] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.720] [INFO   ] dealer have table
+[13:57:41.721] [INFO   ] dealer realese table
+[13:57:41.721] [INFO   ] dealer have table
+[13:57:41.732] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.732] [INFO   ] dealer have table
+[13:57:41.733] [INFO   ] dealer realese table
+[13:57:41.733] [INFO   ] dealer have table
+[13:57:41.744] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.744] [INFO   ] dealer have table
+[13:57:41.745] [INFO   ] dealer realese table
+[13:57:41.745] [INFO   ] dealer have table
+[13:57:41.756] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.756] [INFO   ] dealer have table
+[13:57:41.756] [INFO   ] dealer realese table
+[13:57:41.757] [INFO   ] dealer have table
+[13:57:41.768] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.769] [INFO   ] dealer have table
+[13:57:41.769] [INFO   ] dealer realese table
+[13:57:41.770] [INFO   ] dealer have table
+[13:57:41.781] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.781] [INFO   ] dealer have table
+[13:57:41.782] [INFO   ] dealer realese table
+[13:57:41.782] [INFO   ] dealer have table
+[13:57:41.793] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.793] [INFO   ] dealer have table
+[13:57:41.794] [INFO   ] dealer realese table
+[13:57:41.794] [INFO   ] dealer have table
+[13:57:41.805] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.806] [INFO   ] dealer have table
+[13:57:41.806] [INFO   ] dealer realese table
+[13:57:41.807] [INFO   ] dealer have table
+[13:57:41.818] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.819] [INFO   ] dealer have table
+[13:57:41.822] [INFO   ] dealer realese table
+[13:57:41.823] [INFO   ] dealer have table
+[13:57:41.833] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.834] [INFO   ] dealer have table
+[13:57:41.834] [INFO   ] dealer realese table
+[13:57:41.834] [INFO   ] dealer have table
+[13:57:41.845] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.846] [INFO   ] dealer have table
+[13:57:41.846] [INFO   ] dealer realese table
+[13:57:41.847] [INFO   ] dealer have table
+[13:57:41.858] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.858] [INFO   ] dealer have table
+[13:57:41.858] [INFO   ] dealer realese table
+[13:57:41.859] [INFO   ] dealer have table
+[13:57:41.870] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.871] [INFO   ] dealer have table
+[13:57:41.871] [INFO   ] dealer realese table
+[13:57:41.871] [INFO   ] dealer have table
+[13:57:41.882] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.883] [INFO   ] dealer have table
+[13:57:41.883] [INFO   ] dealer realese table
+[13:57:41.884] [INFO   ] dealer have table
+[13:57:41.894] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.895] [INFO   ] dealer have table
+[13:57:41.895] [INFO   ] dealer realese table
+[13:57:41.896] [INFO   ] dealer have table
+[13:57:41.907] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.908] [INFO   ] dealer have table
+[13:57:41.909] [INFO   ] dealer realese table
+[13:57:41.909] [INFO   ] dealer have table
+[13:57:41.920] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.921] [INFO   ] dealer have table
+[13:57:41.921] [INFO   ] dealer realese table
+[13:57:41.921] [INFO   ] dealer have table
+[13:57:41.932] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.932] [INFO   ] dealer have table
+[13:57:41.933] [INFO   ] dealer realese table
+[13:57:41.933] [INFO   ] dealer have table
+[13:57:41.944] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.944] [INFO   ] dealer have table
+[13:57:41.945] [INFO   ] dealer realese table
+[13:57:41.945] [INFO   ] dealer have table
+[13:57:41.956] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.956] [INFO   ] dealer have table
+[13:57:41.957] [INFO   ] dealer realese table
+[13:57:41.957] [INFO   ] dealer have table
+[13:57:41.968] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.969] [INFO   ] dealer have table
+[13:57:41.969] [INFO   ] dealer realese table
+[13:57:41.969] [INFO   ] dealer have table
+[13:57:41.980] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.981] [INFO   ] dealer have table
+[13:57:41.981] [INFO   ] dealer realese table
+[13:57:41.981] [INFO   ] dealer have table
+[13:57:41.992] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:41.992] [INFO   ] dealer have table
+[13:57:41.993] [INFO   ] dealer realese table
+[13:57:41.993] [INFO   ] dealer have table
+[13:57:42.004] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.004] [INFO   ] dealer have table
+[13:57:42.004] [INFO   ] dealer realese table
+[13:57:42.005] [INFO   ] dealer have table
+[13:57:42.016] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.016] [INFO   ] dealer have table
+[13:57:42.016] [INFO   ] dealer realese table
+[13:57:42.017] [INFO   ] dealer have table
+[13:57:42.027] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.028] [INFO   ] dealer have table
+[13:57:42.028] [INFO   ] dealer realese table
+[13:57:42.029] [INFO   ] dealer have table
+[13:57:42.039] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.040] [INFO   ] dealer have table
+[13:57:42.040] [INFO   ] dealer realese table
+[13:57:42.040] [INFO   ] dealer have table
+[13:57:42.051] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.051] [INFO   ] dealer have table
+[13:57:42.052] [INFO   ] dealer realese table
+[13:57:42.052] [INFO   ] dealer have table
+[13:57:42.063] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.063] [INFO   ] dealer have table
+[13:57:42.064] [INFO   ] dealer realese table
+[13:57:42.064] [INFO   ] dealer have table
+[13:57:42.075] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.075] [INFO   ] dealer have table
+[13:57:42.076] [INFO   ] dealer realese table
+[13:57:42.076] [INFO   ] dealer have table
+[13:57:42.087] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.087] [INFO   ] dealer have table
+[13:57:42.088] [INFO   ] dealer realese table
+[13:57:42.088] [INFO   ] dealer have table
+[13:57:42.099] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.099] [INFO   ] dealer have table
+[13:57:42.100] [INFO   ] dealer realese table
+[13:57:42.100] [INFO   ] dealer have table
+[13:57:42.111] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.111] [INFO   ] dealer have table
+[13:57:42.112] [INFO   ] dealer realese table
+[13:57:42.112] [INFO   ] dealer have table
+[13:57:42.123] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.123] [INFO   ] dealer have table
+[13:57:42.124] [INFO   ] dealer realese table
+[13:57:42.124] [INFO   ] dealer have table
+[13:57:42.135] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.135] [INFO   ] dealer have table
+[13:57:42.135] [INFO   ] dealer realese table
+[13:57:42.136] [INFO   ] dealer have table
+[13:57:42.147] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.147] [INFO   ] dealer have table
+[13:57:42.147] [INFO   ] dealer realese table
+[13:57:42.148] [INFO   ] dealer have table
+[13:57:42.158] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.159] [INFO   ] dealer have table
+[13:57:42.159] [INFO   ] dealer realese table
+[13:57:42.160] [INFO   ] dealer have table
+[13:57:42.170] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.171] [INFO   ] dealer have table
+[13:57:42.171] [INFO   ] dealer realese table
+[13:57:42.171] [INFO   ] dealer have table
+[13:57:42.182] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.182] [INFO   ] dealer have table
+[13:57:42.183] [INFO   ] dealer realese table
+[13:57:42.183] [INFO   ] dealer have table
+[13:57:42.194] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.195] [INFO   ] dealer have table
+[13:57:42.195] [INFO   ] dealer realese table
+[13:57:42.196] [INFO   ] dealer have table
+[13:57:42.207] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.207] [INFO   ] dealer have table
+[13:57:42.207] [INFO   ] dealer realese table
+[13:57:42.208] [INFO   ] dealer have table
+[13:57:42.219] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.219] [INFO   ] dealer have table
+[13:57:42.220] [INFO   ] dealer realese table
+[13:57:42.220] [INFO   ] dealer have table
+[13:57:42.231] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.232] [INFO   ] dealer have table
+[13:57:42.232] [INFO   ] dealer realese table
+[13:57:42.232] [INFO   ] dealer have table
+[13:57:42.243] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.244] [INFO   ] dealer have table
+[13:57:42.244] [INFO   ] dealer realese table
+[13:57:42.245] [INFO   ] dealer have table
+[13:57:42.256] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.256] [INFO   ] dealer have table
+[13:57:42.256] [INFO   ] dealer realese table
+[13:57:42.257] [INFO   ] dealer have table
+[13:57:42.264] [SEVERE ] exit button pressed
+[13:57:42.267] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[13:57:42.268] [INFO   ] dealer have table
+[13:57:42.268] [INFO   ] dealer realese table
+[13:57:42.369] [SEVERE ] removing card from slot 0
+[13:57:42.369] [SEVERE ] removing tokens from slot 0
+[13:57:42.470] [SEVERE ] removing card from slot 1
+[13:57:42.470] [SEVERE ] removing tokens from slot 1
+[13:57:42.571] [SEVERE ] removing card from slot 2
+[13:57:42.571] [SEVERE ] removing tokens from slot 2
+[13:57:42.672] [SEVERE ] removing card from slot 3
+[13:57:42.673] [SEVERE ] removing tokens from slot 3
+[13:57:42.689] [SEVERE ] setting player 4 freeze to 0
+[13:57:42.689] [INFO   ] im player 4 im exiting my loop and mu check is false
+[13:57:42.690] [INFO   ] im player 4 entering return
+[13:57:42.697] [SEVERE ] setting player 3 freeze to 2000
+[13:57:42.773] [SEVERE ] removing card from slot 4
+[13:57:42.774] [SEVERE ] removing tokens from slot 4
+[13:57:42.874] [SEVERE ] removing card from slot 5
+[13:57:42.875] [SEVERE ] removing tokens from slot 5
+[13:57:42.976] [SEVERE ] removing card from slot 6
+[13:57:42.976] [SEVERE ] removing tokens from slot 6
+[13:57:43.076] [SEVERE ] removing card from slot 7
+[13:57:43.077] [SEVERE ] removing tokens from slot 7
+[13:57:43.177] [SEVERE ] removing card from slot 8
+[13:57:43.178] [SEVERE ] removing tokens from slot 8
+[13:57:43.279] [SEVERE ] removing card from slot 9
+[13:57:43.279] [SEVERE ] removing tokens from slot 9
+[13:57:43.380] [SEVERE ] removing card from slot 10
+[13:57:43.380] [SEVERE ] removing tokens from slot 10
+[13:57:43.481] [SEVERE ] removing card from slot 11
+[13:57:43.481] [SEVERE ] removing tokens from slot 11
+[13:57:43.482] [INFO   ] im player 4 exit return
+[13:57:43.482] [INFO   ] player 4 waiting for queue 1
+[13:57:43.482] [SEVERE ] announcing winner(s): player 1, player 2, player 3, player 4
+[13:57:43.482] [INFO   ] player 4 out queue 0
+[13:57:43.483] [INFO   ] im player 4 entering return
+[13:57:43.483] [INFO   ] im player 4 exit return
+[13:57:43.483] [INFO   ] player 4 waiting for queue 0
+[13:57:43.483] [INFO   ] player 4 is terminate by dealer
+[13:57:43.484] [INFO   ] player 4 is interrup bt dealer
+[13:57:43.484] [INFO   ] player4interrupted while waiting for a key
+[13:57:43.484] [INFO   ] player 4isInterrupted: false
+[13:57:43.697] [SEVERE ] setting player 3 freeze to 1000
+[13:57:44.698] [SEVERE ] setting player 3 freeze to 0
+[13:57:44.699] [INFO   ] im player 3 im exiting my loop and mu check is false
+[13:57:44.699] [INFO   ] im player 3 entering return
+[13:57:44.699] [INFO   ] im player 3 exit return
+[13:57:44.700] [INFO   ] player 3 waiting for queue 1
+[13:57:44.700] [INFO   ] player 3 out queue 0
+[13:57:44.700] [INFO   ] im player 3 entering return
+[13:57:44.701] [INFO   ] im player 3 exit return
+[13:57:44.701] [INFO   ] player 3 waiting for queue 0
+[13:57:45.699] [INFO   ] player 3 out queue 0
+[13:57:45.700] [INFO   ] im player 3 entering return
+[13:57:45.701] [INFO   ] im player 3 exit return
+[13:57:45.701] [INFO   ] player 3 waiting for queue 0
+[13:57:46.699] [INFO   ] player 3 out queue 0
+[13:57:46.700] [INFO   ] im player 3 entering return
+[13:57:46.701] [INFO   ] im player 3 exit return
+[13:57:46.701] [INFO   ] player 3 waiting for queue 0
+[13:57:47.700] [INFO   ] player 3 out queue 0
+[13:57:47.700] [INFO   ] im player 3 entering return
+[13:57:47.701] [INFO   ] im player 3 exit return
+[13:57:47.701] [INFO   ] player 3 waiting for queue 0
+[13:57:48.700] [INFO   ] player 3 out queue 0
+[13:57:48.701] [INFO   ] im player 3 entering return
+[13:57:48.701] [INFO   ] im player 3 exit return
+[13:57:48.701] [INFO   ] player 3 waiting for queue 0
+[13:57:49.700] [INFO   ] player 3 out queue 0
+[13:57:49.701] [INFO   ] im player 3 entering return
+[13:57:49.701] [INFO   ] im player 3 exit return
+[13:57:49.702] [INFO   ] player 3 waiting for queue 0

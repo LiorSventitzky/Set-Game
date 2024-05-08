@@ -1,0 +1,303 @@
+[21:39:39.920] [INFO   ] thread bguspl.set.Main.main() starting.
+[21:39:39.940] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[21:39:39.960] [SEVERE ] configuration file was loaded from resources directory.
+[21:39:42.295] [INFO   ] thread dealer starting.
+[21:39:42.296] [INFO   ] thread dealer starting.
+[21:39:42.298] [INFO   ] thread Thread-1 starting.
+[21:39:42.298] [INFO   ] thread Thread-4 starting.
+[21:39:42.298] [INFO   ] thread Thread-3 starting.
+[21:39:42.298] [INFO   ] thread Thread-2 starting.
+[21:39:42.311] [INFO   ] thread computer-2 starting.
+[21:39:42.310] [INFO   ] im player 3 entering return
+[21:39:42.309] [INFO   ] thread computer-3 starting.
+[21:39:42.309] [INFO   ] im player 4 entering return
+[21:39:42.299] [INFO   ] im player 1 entering return
+[21:39:42.311] [INFO   ] im player 2 entering return
+[21:39:42.407] [SEVERE ] placing card 38 in slot 0
+[21:39:42.508] [SEVERE ] placing card 10 in slot 1
+[21:39:42.610] [SEVERE ] placing card 64 in slot 2
+[21:39:42.711] [SEVERE ] placing card 54 in slot 3
+[21:39:42.812] [SEVERE ] placing card 2 in slot 4
+[21:39:42.913] [SEVERE ] placing card 26 in slot 5
+[21:39:43.014] [SEVERE ] placing card 41 in slot 6
+[21:39:43.116] [SEVERE ] placing card 25 in slot 7
+[21:39:43.217] [SEVERE ] placing card 68 in slot 8
+[21:39:43.318] [SEVERE ] placing card 74 in slot 9
+[21:39:43.419] [SEVERE ] placing card 27 in slot 10
+[21:39:43.521] [SEVERE ] placing card 40 in slot 11
+[21:39:43.529] [INFO   ] im player 2 exit return
+[21:39:43.529] [INFO   ] im player 3 exit return
+[21:39:43.529] [INFO   ] im player 4 exit return
+[21:39:43.529] [SEVERE ] updating countdown to 19999
+[21:39:43.529] [INFO   ] im player 1 exit return
+[21:39:43.531] [INFO   ] player 4 waiting for queue 1
+[21:39:43.530] [INFO   ] player 3 waiting for queue 1
+[21:39:43.533] [INFO   ] player 3 out queue 0
+[21:39:43.530] [INFO   ] player 2 waiting for queue 0
+[21:39:43.534] [SEVERE ] player 3 placing token on slot 6
+[21:39:43.533] [INFO   ] player 4 out queue 0
+[21:39:43.532] [INFO   ] dealer have table
+[21:39:43.532] [INFO   ] player 1 waiting for queue 0
+[21:39:43.535] [SEVERE ] player 4 placing token on slot 2
+[21:39:43.535] [INFO   ] im player 3 entering return
+[21:39:43.538] [INFO   ] im player 4 entering return
+[21:39:43.539] [INFO   ] im player 3 exit return
+[21:39:43.542] [INFO   ] player 3 waiting for queue 0
+[21:39:43.540] [INFO   ] im player 4 exit return
+[21:39:43.543] [INFO   ] player 4 waiting for queue 0
+[21:39:44.523] [INFO   ] player 3 out queue 0
+[21:39:44.525] [SEVERE ] removing player 3 token from slot 6
+[21:39:44.523] [INFO   ] player 4 out queue 0
+[21:39:44.527] [SEVERE ] player 4 placing token on slot 10
+[21:39:44.526] [INFO   ] im player 3 entering return
+[21:39:44.528] [INFO   ] im player 4 entering return
+[21:39:44.529] [INFO   ] im player 3 exit return
+[21:39:44.530] [INFO   ] im player 4 exit return
+[21:39:44.532] [INFO   ] player 3 waiting for queue 0
+[21:39:44.534] [INFO   ] player 4 waiting for queue 0
+[21:39:44.536] [SEVERE ] updating countdown to 18995
+[21:39:44.537] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:44.537] [INFO   ] dealer have table
+[21:39:44.538] [INFO   ] dealer realese table
+[21:39:44.538] [INFO   ] dealer have table
+[21:39:45.523] [INFO   ] player 4 out queue 0
+[21:39:45.523] [INFO   ] player 3 out queue 0
+[21:39:45.526] [SEVERE ] player 3 placing token on slot 6
+[21:39:45.524] [SEVERE ] player 4 placing token on slot 4
+[21:39:45.527] [INFO   ] im player 3 entering return
+[21:39:45.527] [INFO   ] player 4 in claims 1
+[21:39:45.529] [INFO   ] player 4 has table
+[21:39:45.528] [INFO   ] im player 3 exit return
+[21:39:45.529] [SEVERE ] updating countdown to 18002
+[21:39:45.530] [INFO   ] player 3 waiting for queue 0
+[21:39:45.531] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[21:39:45.532] [INFO   ] dealer have table
+[21:39:45.533] [INFO   ] took 4out of claims for a check
+[21:39:45.534] [INFO   ] dealer realese table
+[21:39:45.534] [INFO   ] player 4 wait table
+[21:39:45.537] [INFO   ] player 4 realese table
+[21:39:45.538] [SEVERE ] setting player 4 freeze to 3000
+[21:39:45.538] [INFO   ] dealer have table
+[21:39:46.524] [INFO   ] player 3 out queue 0
+[21:39:46.525] [SEVERE ] player 3 placing token on slot 11
+[21:39:46.525] [INFO   ] im player 3 entering return
+[21:39:46.526] [INFO   ] im player 3 exit return
+[21:39:46.526] [INFO   ] player 3 waiting for queue 0
+[21:39:46.539] [SEVERE ] setting player 4 freeze to 2000
+[21:39:46.539] [SEVERE ] updating countdown to 16992
+[21:39:46.540] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:46.541] [INFO   ] dealer have table
+[21:39:46.541] [INFO   ] dealer realese table
+[21:39:46.542] [INFO   ] dealer have table
+[21:39:47.524] [INFO   ] player 3 out queue 0
+[21:39:47.525] [SEVERE ] player 3 placing token on slot 3
+[21:39:47.525] [INFO   ] player 3 in claims 1
+[21:39:47.526] [INFO   ] player 3 has table
+[21:39:47.526] [SEVERE ] updating countdown to 16005
+[21:39:47.527] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[21:39:47.527] [INFO   ] dealer have table
+[21:39:47.528] [INFO   ] took 3out of claims for a check
+[21:39:47.528] [INFO   ] dealer realese table
+[21:39:47.528] [INFO   ] player 3 wait table
+[21:39:47.530] [INFO   ] player 3 realese table
+[21:39:47.530] [SEVERE ] setting player 3 freeze to 3000
+[21:39:47.530] [INFO   ] dealer have table
+[21:39:47.540] [SEVERE ] setting player 4 freeze to 1000
+[21:39:48.531] [SEVERE ] setting player 3 freeze to 2000
+[21:39:48.531] [SEVERE ] updating countdown to 15000
+[21:39:48.532] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:48.533] [INFO   ] dealer have table
+[21:39:48.533] [INFO   ] dealer realese table
+[21:39:48.534] [INFO   ] dealer have table
+[21:39:48.541] [SEVERE ] setting player 4 freeze to 0
+[21:39:48.542] [INFO   ] im player 4 im exiting my loop and mu check is false
+[21:39:48.543] [INFO   ] im player 4 entering return
+[21:39:48.543] [INFO   ] im player 4 exit return
+[21:39:48.543] [INFO   ] player 4 waiting for queue 1
+[21:39:48.544] [INFO   ] player 4 out queue 0
+[21:39:48.545] [INFO   ] im player 4 entering return
+[21:39:48.545] [INFO   ] im player 4 exit return
+[21:39:48.546] [INFO   ] player 4 waiting for queue 0
+[21:39:49.532] [SEVERE ] setting player 3 freeze to 1000
+[21:39:49.534] [SEVERE ] updating countdown to 13997
+[21:39:49.535] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:49.536] [INFO   ] dealer have table
+[21:39:49.536] [INFO   ] dealer realese table
+[21:39:49.537] [INFO   ] dealer have table
+[21:39:49.543] [INFO   ] player 4 out queue 0
+[21:39:49.544] [SEVERE ] removing player 4 token from slot 2
+[21:39:49.544] [INFO   ] im player 4 entering return
+[21:39:49.545] [INFO   ] im player 4 exit return
+[21:39:49.545] [INFO   ] player 4 waiting for queue 0
+[21:39:50.534] [SEVERE ] setting player 3 freeze to 0
+[21:39:50.535] [INFO   ] im player 3 im exiting my loop and mu check is false
+[21:39:50.535] [INFO   ] im player 3 entering return
+[21:39:50.536] [INFO   ] im player 3 exit return
+[21:39:50.537] [INFO   ] player 3 waiting for queue 1
+[21:39:50.537] [INFO   ] player 3 out queue 0
+[21:39:50.538] [SEVERE ] removing player 3 token from slot 3
+[21:39:50.538] [SEVERE ] updating countdown to 12993
+[21:39:50.539] [INFO   ] im player 3 entering return
+[21:39:50.540] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:50.540] [INFO   ] im player 3 exit return
+[21:39:50.541] [INFO   ] dealer have table
+[21:39:50.542] [INFO   ] player 3 waiting for queue 0
+[21:39:50.543] [INFO   ] player 4 out queue 0
+[21:39:50.543] [INFO   ] dealer realese table
+[21:39:50.544] [SEVERE ] player 4 placing token on slot 5
+[21:39:50.545] [INFO   ] dealer have table
+[21:39:50.547] [SEVERE ] updating countdown to 12984
+[21:39:50.546] [INFO   ] player 4 in claims 1
+[21:39:50.547] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[21:39:50.548] [INFO   ] player 4 has table
+[21:39:50.549] [INFO   ] dealer have table
+[21:39:50.550] [INFO   ] took 4out of claims for a check
+[21:39:50.551] [INFO   ] dealer realese table
+[21:39:50.551] [INFO   ] player 4 wait table
+[21:39:50.552] [INFO   ] player 4 realese table
+[21:39:50.552] [SEVERE ] setting player 4 freeze to 3000
+[21:39:50.553] [INFO   ] dealer have table
+[21:39:51.535] [INFO   ] player 3 out queue 0
+[21:39:51.536] [SEVERE ] player 3 placing token on slot 7
+[21:39:51.537] [INFO   ] player 3 in claims 1
+[21:39:51.537] [INFO   ] player 3 has table
+[21:39:51.538] [SEVERE ] updating countdown to 11993
+[21:39:51.539] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[21:39:51.539] [INFO   ] dealer have table
+[21:39:51.539] [INFO   ] took 3out of claims for a check
+[21:39:51.540] [INFO   ] dealer realese table
+[21:39:51.540] [INFO   ] player 3 wait table
+[21:39:51.541] [INFO   ] player 3 realese table
+[21:39:51.542] [SEVERE ] setting player 3 freeze to 3000
+[21:39:51.542] [INFO   ] dealer have table
+[21:39:51.554] [SEVERE ] setting player 4 freeze to 2000
+[21:39:52.543] [SEVERE ] setting player 3 freeze to 2000
+[21:39:52.543] [SEVERE ] updating countdown to 10988
+[21:39:52.545] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:52.545] [INFO   ] dealer have table
+[21:39:52.546] [INFO   ] dealer realese table
+[21:39:52.546] [INFO   ] dealer have table
+[21:39:52.555] [SEVERE ] setting player 4 freeze to 1000
+[21:39:53.544] [SEVERE ] setting player 3 freeze to 1000
+[21:39:53.547] [SEVERE ] updating countdown to 9984
+[21:39:53.547] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:53.548] [INFO   ] dealer have table
+[21:39:53.548] [INFO   ] dealer realese table
+[21:39:53.549] [INFO   ] dealer have table
+[21:39:53.556] [SEVERE ] setting player 4 freeze to 0
+[21:39:53.557] [INFO   ] im player 4 im exiting my loop and mu check is false
+[21:39:53.558] [INFO   ] im player 4 entering return
+[21:39:53.558] [INFO   ] im player 4 exit return
+[21:39:53.559] [INFO   ] player 4 waiting for queue 1
+[21:39:53.559] [INFO   ] player 4 out queue 0
+[21:39:53.560] [INFO   ] im player 4 entering return
+[21:39:53.560] [INFO   ] im player 4 exit return
+[21:39:53.560] [INFO   ] player 4 waiting for queue 0
+[21:39:54.546] [SEVERE ] setting player 3 freeze to 0
+[21:39:54.547] [INFO   ] im player 3 im exiting my loop and mu check is false
+[21:39:54.547] [INFO   ] im player 3 entering return
+[21:39:54.548] [INFO   ] im player 3 exit return
+[21:39:54.549] [INFO   ] player 3 waiting for queue 1
+[21:39:54.549] [INFO   ] player 3 out queue 0
+[21:39:54.550] [INFO   ] im player 3 entering return
+[21:39:54.550] [INFO   ] im player 3 exit return
+[21:39:54.551] [INFO   ] player 3 waiting for queue 0
+[21:39:54.549] [SEVERE ] updating countdown to 8982
+[21:39:54.553] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:54.554] [INFO   ] dealer have table
+[21:39:54.554] [INFO   ] dealer realese table
+[21:39:54.555] [INFO   ] dealer have table
+[21:39:54.558] [INFO   ] player 4 out queue 0
+[21:39:54.559] [INFO   ] im player 4 entering return
+[21:39:54.560] [INFO   ] im player 4 exit return
+[21:39:54.560] [INFO   ] player 4 waiting for queue 0
+[21:39:55.546] [INFO   ] player 3 out queue 0
+[21:39:55.547] [INFO   ] im player 3 entering return
+[21:39:55.548] [INFO   ] im player 3 exit return
+[21:39:55.549] [INFO   ] player 3 waiting for queue 0
+[21:39:55.556] [INFO   ] player 4 out queue 0
+[21:39:55.558] [SEVERE ] removing player 4 token from slot 4
+[21:39:55.557] [SEVERE ] updating countdown to 7974
+[21:39:55.559] [INFO   ] im player 4 entering return
+[21:39:55.561] [INFO   ] im player 4 exit return
+[21:39:55.560] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:55.563] [INFO   ] dealer have table
+[21:39:55.564] [INFO   ] dealer realese table
+[21:39:55.564] [INFO   ] dealer have table
+[21:39:55.562] [INFO   ] player 4 waiting for queue 0
+[21:39:56.546] [INFO   ] player 3 out queue 0
+[21:39:56.548] [INFO   ] im player 3 entering return
+[21:39:56.548] [INFO   ] im player 3 exit return
+[21:39:56.549] [INFO   ] player 3 waiting for queue 0
+[21:39:56.557] [INFO   ] player 4 out queue 0
+[21:39:56.558] [SEVERE ] player 4 placing token on slot 8
+[21:39:56.566] [SEVERE ] updating countdown to 6965
+[21:39:56.567] [INFO   ] player 4 in claims 1
+[21:39:56.568] [INFO   ] player 4 has table
+[21:39:56.568] [INFO   ] im dealer i'm checking for sets now and queue size is 1
+[21:39:56.570] [INFO   ] dealer have table
+[21:39:56.570] [INFO   ] took 4out of claims for a check
+[21:39:56.571] [INFO   ] dealer realese table
+[21:39:56.571] [INFO   ] player 4 wait table
+[21:39:56.573] [INFO   ] player 4 realese table
+[21:39:56.573] [SEVERE ] setting player 4 freeze to 3000
+[21:39:56.573] [INFO   ] dealer have table
+[21:39:57.495] [SEVERE ] exit button pressed
+[21:39:57.547] [INFO   ] player 3 out queue 0
+[21:39:57.547] [INFO   ] im player 3 entering return
+[21:39:57.548] [INFO   ] im player 3 exit return
+[21:39:57.548] [INFO   ] player 3 waiting for queue 0
+[21:39:57.574] [SEVERE ] setting player 4 freeze to 2000
+[21:39:57.575] [SEVERE ] updating countdown to 5956
+[21:39:57.576] [INFO   ] im dealer i'm checking for sets now and queue size is 0
+[21:39:57.576] [INFO   ] dealer have table
+[21:39:57.577] [INFO   ] dealer realese table
+[21:39:57.677] [SEVERE ] removing card from slot 0
+[21:39:57.678] [SEVERE ] removing tokens from slot 0
+[21:39:57.779] [SEVERE ] removing card from slot 1
+[21:39:57.780] [SEVERE ] removing tokens from slot 1
+[21:39:57.880] [SEVERE ] removing card from slot 2
+[21:39:57.881] [SEVERE ] removing tokens from slot 2
+[21:39:57.982] [SEVERE ] removing card from slot 3
+[21:39:57.983] [SEVERE ] removing tokens from slot 3
+[21:39:58.084] [SEVERE ] removing card from slot 4
+[21:39:58.085] [SEVERE ] removing tokens from slot 4
+[21:39:58.186] [SEVERE ] removing card from slot 5
+[21:39:58.187] [SEVERE ] removing tokens from slot 5
+[21:39:58.288] [SEVERE ] removing card from slot 6
+[21:39:58.289] [SEVERE ] removing tokens from slot 6
+[21:39:58.390] [SEVERE ] removing card from slot 7
+[21:39:58.391] [SEVERE ] removing tokens from slot 7
+[21:39:58.492] [SEVERE ] removing card from slot 8
+[21:39:58.493] [SEVERE ] removing tokens from slot 8
+[21:39:58.575] [SEVERE ] setting player 4 freeze to 1000
+[21:39:58.594] [SEVERE ] removing card from slot 9
+[21:39:58.595] [SEVERE ] removing tokens from slot 9
+[21:39:58.696] [SEVERE ] removing card from slot 10
+[21:39:58.697] [SEVERE ] removing tokens from slot 10
+[21:39:58.797] [SEVERE ] removing card from slot 11
+[21:39:58.798] [SEVERE ] removing tokens from slot 11
+[21:39:58.799] [INFO   ] player 3 out queue 0
+[21:39:58.799] [SEVERE ] announcing winner(s): player 1, player 2, player 3, player 4
+[21:39:58.799] [INFO   ] im player 3 entering return
+[21:39:58.801] [INFO   ] thread computer-3 terminated.
+[21:39:58.801] [INFO   ] im player 3 exit return
+[21:39:58.801] [SEVERE ] setting player 4 freeze to 0
+[21:39:58.802] [INFO   ] player 3 waiting for queue 0
+[21:39:58.803] [INFO   ] im player 4 im exiting my loop and mu check is false
+[21:39:58.804] [INFO   ] player 4isInterrupted: true
+[21:39:58.805] [INFO   ] thread Thread-4 terminated.
+[21:39:58.806] [INFO   ] interrupted while waiting for a key
+[21:39:58.806] [INFO   ] player 3isInterrupted: true
+[21:39:58.807] [INFO   ] im player 3 got interrupted
+[21:39:58.807] [INFO   ] thread Thread-3 terminated.
+[21:39:58.808] [INFO   ] interrupted while waiting for a key
+[21:39:58.809] [INFO   ] player 2isInterrupted: true
+[21:39:58.809] [INFO   ] thread Thread-2 terminated.
+[21:39:58.810] [INFO   ] interrupted while waiting for a key
+[21:39:58.811] [INFO   ] player 1isInterrupted: true
+[21:39:58.811] [INFO   ] thread Thread-1 terminated.
+[21:39:58.812] [INFO   ] thread dealer terminated.
+[21:39:58.812] [INFO   ] thread dealer terminated.
+[21:39:58.813] [SEVERE ] thanks for playing... it was fun!
+[21:39:58.813] [INFO   ] thread bguspl.set.Main.main() terminated.

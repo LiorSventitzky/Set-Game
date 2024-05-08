@@ -1,0 +1,63 @@
+BONUS CHALLENGE FORM
+--------------------
+
+For each bonus challenge you have implemented, please replace the sentence "We are not entitled to this bonus."
+with a short description of:
+
+1. How it was implemented in your code
+2. Where it was used (in which class methods).
+3. How you tested that it is working correctly.
+
+--------------------
+
+1. Fully supporting all configuration fields and avoiding the use of magic numbers
+
+1. Instead of using magic numbers (3 ,12, etc.), we used the fields provided in env.config (for example featureSize, rows&columns,
+ the time configurations) where they were required in the code.
+
+2. In class Table - we added a field to indicate the feature size. Then we used this field in the constructor method and
+in the getPlayerTokens method. In addition, we used env.config.tableSize in the constructor.
+
+In class Player - we added a field to indicate the feature size, Then used it in the constructor, in the run method and in the
+handleKey method. In addition, we used tableSize in the createArtificialIntelligence method. Also, we use the time configurations
+for point or penalty in the setFreeze method.
+
+In class Dealer, we added fields to indicate the feature size and the table size. We used those features in the methods removeCardsFromTable.
+removeAllCardFromTable and placeCardsOnTable. In addition we used the configurations for turnTimeoutMillis and turnTimeoutWarningMillis
+as fields and in the methods timerloop, sleepUntilWokenOrTimeout, updateTimerDisplay. Also, we used the hints config in the method
+placeCardsOnTable so that the hints are printed when the situation on the table changes.
+
+3. We tried running the game while changing the different settings and checked that it was running smoothly.
+
+--------------------
+
+2. Terminating all threads (that you created) gracefully and in reverse order to the order they were created in.
+
+1. The order in which the threads are created: the main thread creates the dealer thread, and the dealer thread creates the
+player threads (from player 0 to the last player). If the player is an ai player, then the player thread creates an additional ai thread.
+Thus, when the game is terminated, we created a method calles closePlayerThreads. This method goes through all players from the last
+player to the first, telling each player to terminate, and waits until the player thread finishes.  In turn, the player thread that is
+being told to terminate is exitist its main loop. If its an ai player, it waits for the ai thread to finish and only then finishes itself.
+This way, we ensure that all the threads are terminated in the reverse order - first the ai thread, then the player thread, and when all players
+are done the dealer threads finish.
+
+2. In class Dealer - it was implemented in the methods terminate (which tells the dealer it has to terminate) and in closePlayerThreads.
+In class Player, it was implemented in the createArtificialIntelligence method and at the end of the run method.
+
+3. We used the logger files to see that all of the threads are terinating in the reverse order.
+--------------------
+
+3. Handling the config.turnTimeoutMillis value as follows:
+config.turnTimeoutMillis < 0: display nothing.
+config.turnTimeoutMillis = 0: display a timer since the last action (reshuffle or set collected).
+Note: in modes without a countdown timer the dealer must ensure there is always at least one legal set on the table.
+
+We are not entitled to this bonus.
+
+--------------------
+
+4. Making sure that the threads do not wake up unless some actual job needs to be done (e.g., a value needs to be
+changed on the display, key input needs to be handled, etc.) and the only threads created by you are:
+1 thread per player + 1 additional thread for non-human players.
+
+We are not entitled to this bonus.
